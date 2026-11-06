@@ -1,0 +1,1982 @@
+{
+ "inhotim": {
+  "google": "https://www.google.com/search?q=Inhotim%20(Brumadinho)%20Brumadinho%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/inhotim/",
+  "checked": true
+ },
+ "zoo": {
+  "google": "https://www.google.com/search?q=Zool%C3%B3gico%20e%20Jardim%20Bot%C3%A2nico%20(Zoo%20BH)%20Pampulha%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "pq-palacio": {
+  "google": "https://www.google.com/search?q=Parque%20do%20Pal%C3%A1cio%20Mangabeiras%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "parque-municipal": {
+  "google": "https://www.google.com/search?q=Parque%20Municipal%20Am%C3%A9rico%20Renn%C3%A9%20Giannetti%20Centro%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "pq-ecologico": {
+  "google": "https://www.google.com/search?q=Parque%20Ecol%C3%B3gico%20da%20Pampulha%20Pampulha%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "parque-mangabeiras": {
+  "google": "https://www.google.com/search?q=Parque%20das%20Mangabeiras%20Mangabeiras%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "pq-serra-curral": {
+  "google": "https://www.google.com/search?q=Parque%20da%20Serra%20do%20Curral%20Mangabeiras%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "pq-borboletas": {
+  "google": "https://www.google.com/search?q=Parque%20Mata%20das%20Borboletas%20Sion%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "lagoa-nado": {
+  "google": "https://www.google.com/search?q=Parque%20Fazenda%20Lagoa%20do%20Nado%20Itapo%C3%A3%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "pq-cousteau": {
+  "google": "https://www.google.com/search?q=Parque%20Jacques%20Cousteau%20Regi%C3%A3o%20Oeste%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "pq-burle-marx": {
+  "google": "https://www.google.com/search?q=Parque%20das%20%C3%81guas%20(Roberto%20Burle%20Marx)%20Barreiro%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "pq-cassia-eller": {
+  "google": "https://www.google.com/search?q=Parque%20C%C3%A1ssia%20Eller%20Pampulha%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "pq-renato-azeredo": {
+  "google": "https://www.google.com/search?q=Parque%20Ecol%C3%B3gico%20Renato%20Azeredo%20Palmares%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "pq-rosinha": {
+  "google": "https://www.google.com/search?q=Parque%20Rosinha%20Cadar%20Centro-Sul%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "pq-jk": {
+  "google": "https://www.google.com/search?q=Parque%20JK%20(Pra%C3%A7a%20JK)%20Sion%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "mercado-central": {
+  "google": "https://www.google.com/search?q=Mercado%20Central%20Centro%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "praca-liberdade": {
+  "google": "https://www.google.com/search?q=Pra%C3%A7a%20da%20Liberdade%20e%20entorno%20Funcion%C3%A1rios%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "igrejinha": {
+  "google": "https://www.google.com/search?q=Igrejinha%20da%20Pampulha%20(Igreja%20S%C3%A3o%20Francisco%20de%20Assis)%20Pampulha%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "palacio-artes": {
+  "google": "https://www.google.com/search?q=Cine%20Humberto%20Mauro%20(Pal%C3%A1cio%20das%20Artes)%20Centro%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "cine-st": {
+  "google": "https://www.google.com/search?q=Cine%20Santa%20Tereza%20Santa%20Tereza%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/cinesantatereza/",
+  "checked": true
+ },
+ "puc-coreu": {
+  "google": "https://www.google.com/search?q=Museu%20de%20Ci%C3%AAncias%20Naturais%20PUC%20Minas%20Cora%C3%A7%C3%A3o%20Eucar%C3%ADstico%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/museupucminas/",
+  "checked": true
+ },
+ "casa-kubitschek": {
+  "google": "https://www.google.com/search?q=Museu%20Casa%20Kubitschek%20Pampulha%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "map": {
+  "google": "https://www.google.com/search?q=Museu%20de%20Arte%20da%20Pampulha%20(MAP)%20Pampulha%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "mhab": {
+  "google": "https://www.google.com/search?q=Museu%20Hist%C3%B3rico%20Ab%C3%ADlio%20Barreto%20Cidade%20Jardim%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "mumo": {
+  "google": "https://www.google.com/search?q=Museu%20da%20Moda%20(MUMO)%20Centro%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "mis-bh": {
+  "google": "https://www.google.com/search?q=Museu%20da%20Imagem%20e%20do%20Som%20(MIS%20BH)%20Lourdes%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "museu-artes-oficios": {
+  "google": "https://www.google.com/search?q=Sesi%20Museu%20de%20Artes%20e%20Of%C3%ADcios%20Pra%C3%A7a%20da%20Esta%C3%A7%C3%A3o%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "casa-una": {
+  "google": "https://www.google.com/search?q=Casa%20Una%20de%20Cultura%20Funcion%C3%A1rios%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "estudio-nomade": {
+  "google": "https://www.google.com/search?q=Est%C3%BAdio%20N%C3%B4made%20(cer%C3%A2mica)%20Savassi%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "xadrez-bh": {
+  "google": "https://www.google.com/search?q=Clube%20de%20Xadrez%20de%20Belo%20Horizonte%20Lourdes%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/clubedexadrezbelohorizonte/",
+  "checked": true
+ },
+ "duo-tripfood": {
+  "google": "https://www.google.com/search?q=Trip%20Food%20(Pampulha)%20Santa%20Am%C3%A9lia%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/tripfoodbh/",
+  "checked": true
+ },
+ "duo-sobar": {
+  "google": "https://www.google.com/search?q=S%C3%B4%20Bar%20Castelo%20e%20Jaragu%C3%A1%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/sobarcastelo/",
+  "checked": true
+ },
+ "duo-allmar": {
+  "google": "https://www.google.com/search?q=All%20Mar%20S%C3%A3o%20Luiz%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/oallmarbrasil/",
+  "checked": true
+ },
+ "duo-bebedouro": {
+  "google": "https://www.google.com/search?q=Bebedouro%2C%20Bar%20%26%20Fogo%20S%C3%A3o%20Luiz%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/bebedourobarefogo/",
+  "checked": true
+ },
+ "duo-meatz": {
+  "google": "https://www.google.com/search?q=Meatz%20Burger%20Castelo%20e%20Pampulha%20(S%C3%A3o%20Jos%C3%A9)%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "duo-amadis": {
+  "google": "https://www.google.com/search?q=Amad%C3%ADs%20Gastrobar%20Ouro%20Preto%20(Pampulha)%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/amadisbar/",
+  "checked": true
+ },
+ "duo-buteco-rod": {
+  "google": "https://www.google.com/search?q=Buteco%20do%20Rod%20Ouro%20Preto%20(Pampulha)%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/butecodorod/",
+  "checked": true
+ },
+ "duo-labrasa": {
+  "google": "https://www.google.com/search?q=La%20Brasa%20Burger%20(Pampulha)%20Ouro%20Preto%20(Pampulha)%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "duo-juveninha": {
+  "google": "https://www.google.com/search?q=Bar%20do%20Juveninha%20Castelo%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/bardojuveninha/",
+  "checked": true
+ },
+ "duo-pie": {
+  "google": "https://www.google.com/search?q=Pi%C3%AA%2C%20Bar%20%26%20Cozinha%20Castelo%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/pie_bar.cozinha/",
+  "checked": true
+ },
+ "duo-sr-espeto": {
+  "google": "https://www.google.com/search?q=Sr.%20Espetto%20Castelo%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-477-pizzeria": {
+  "google": "https://www.google.com/search?q=477%20Pizzeria%20Santa%20L%C3%BAcia%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-68-la-pizzeria-lourdes-presencialretirada": {
+  "google": "https://www.google.com/search?q=68%20La%20Pizzeria%20(Lourdes)%20Lourdes%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-a2-bistro": {
+  "google": "https://www.google.com/search?q=A2%20Bistr%C3%B4%20Palmares%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-avra": {
+  "google": "https://www.google.com/search?q=AVRA%20Lourdes%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-aje-bistro-bar-presencial": {
+  "google": "https://www.google.com/search?q=Aj%C3%AA%20Bistr%C3%B4%20Bar%20Santa%20Tereza%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-akane-cozinha-japonesa": {
+  "google": "https://www.google.com/search?q=Akane%20Cozinha%20Japonesa%20Belvedere%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-aleixo-pizzaria": {
+  "google": "https://www.google.com/search?q=Aleixo%20Pizzaria%20Lourdes%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-alentos-sorvetes-artesanais-buritis": {
+  "google": "https://www.google.com/search?q=Alento%20Sorvetes%20Artesanais%20(Buritis)%20Buritis%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-alentos-sorvetes-artesanais-mercado-novo": {
+  "google": "https://www.google.com/search?q=Alento%20Sorvetes%20Artesanais%20(Mercado%20Novo)%20Centro%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-alguidares": {
+  "google": "https://www.google.com/search?q=Alguidares%20Anchieta%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-almanaque-anchieta": {
+  "google": "https://www.google.com/search?q=Almanaque%20(Anchieta)%20Anchieta%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-almanaque-savassi": {
+  "google": "https://www.google.com/search?q=Almanaque%20(Savassi)%20Funcion%C3%A1rios%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-amado-lourdes": {
+  "google": "https://www.google.com/search?q=Amado%20Lourdes%20Lourdes%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-american-day-castelo": {
+  "google": "https://www.google.com/search?q=American%20Day%20(Castelo)%20Castelo%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-american-day": {
+  "google": "https://www.google.com/search?q=American%20Day%20(Savassi)%20Funcion%C3%A1rios%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-amoreira-71": {
+  "google": "https://www.google.com/search?q=Amoreira%2071%20Serra%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-amy-wine-bar": {
+  "google": "https://www.google.com/search?q=Amy%20Wine%20Bar%20Olhos%20D'%C3%81gua%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-ancho": {
+  "google": "https://www.google.com/search?q=Ancho%20Lourdes%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-angelas-pizza-bar": {
+  "google": "https://www.google.com/search?q=Angela's%20Pizza%20Bar%20Savassi%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-anoz-gastrobar": {
+  "google": "https://www.google.com/search?q=Anoz%20Gastrobar%20Ouro%20Preto%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-vino-buritis": {
+  "google": "https://www.google.com/search?q=Arreda%20Buritis%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-asia-emporium": {
+  "google": "https://www.google.com/search?q=Asia%20Emporium%20S%C3%A3o%20Pedro%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-axado-restaurante-e-bar": {
+  "google": "https://www.google.com/search?q=Axado%20Restaurante%20e%20Bar%20Buritis%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-azougue-parrila": {
+  "google": "https://www.google.com/search?q=Azougue%20Parrilla%20(Serra)%20Serra%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-badejo-sao-pedro": {
+  "google": "https://www.google.com/search?q=Badejo%20(S%C3%A3o%20Pedro)%20S%C3%A3o%20Pedro%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-bag-burger": {
+  "google": "https://www.google.com/search?q=Bag%20Burger%20Cai%C3%A7ara-Adelaide%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-baladin": {
+  "google": "https://www.google.com/search?q=Baladin%20Sion%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-bar-222": {
+  "google": "https://www.google.com/search?q=Bar%20222%20Anchieta%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-bar-ideal": {
+  "google": "https://www.google.com/search?q=Bar%20Ideal%20Buritis%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-bar-vertice": {
+  "google": "https://www.google.com/search?q=Bar%20V%C3%A9rtice%20Lourdes%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-bar-da-lora-savassi": {
+  "google": "https://www.google.com/search?q=Bar%20da%20Lora%20(Savassi)%20Savassi%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-bar-do-kanto": {
+  "google": "https://www.google.com/search?q=Bar%20do%20Kanto%20Savassi%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-bar-do-sergio-ii": {
+  "google": "https://www.google.com/search?q=Bar%20do%20Sergio%20II%20Renascen%C3%A7a%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-bar-do-tiao": {
+  "google": "https://www.google.com/search?q=Bar%20do%20Ti%C3%A3o%20Prado%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-ali-ba-bar-contorno": {
+  "google": "https://www.google.com/search?q=Bar%20e%20Restaurante%20Villa%20Agostine%20Lourdes%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-bar-do-mago": {
+  "google": "https://www.google.com/search?q=Bardo%20Mago%20Horto%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-barolio-356": {
+  "google": "https://www.google.com/search?q=Barolio%20(356)%20Olhos%20D'%C3%81gua%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-barolio-savassi": {
+  "google": "https://www.google.com/search?q=Barolio%20(Savassi)%20Savassi%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-baxo-bar": {
+  "google": "https://www.google.com/search?q=Baxo%20Bar%20Funcion%C3%A1rios%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-bebedouro-356": {
+  "google": "https://www.google.com/search?q=Bebedouro%20356%20Olhos%20D'%C3%81gua%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/bebedouro356",
+  "checked": true
+ },
+ "dg-beco-ditalia": {
+  "google": "https://www.google.com/search?q=Beco%20D'It%C3%A1lia%20Santa%20Tereza%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/becoditaliamassas",
+  "checked": true
+ },
+ "dg-beerstock-pub": {
+  "google": "https://www.google.com/search?q=Beerstock%20Pub%20Buritis%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/beerstock_pub",
+  "checked": true
+ },
+ "dg-beji-sushi-veg": {
+  "google": "https://www.google.com/search?q=Bej%C3%AD%20Sushi%20Veg%20Centro%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/beji.sushiveg",
+  "checked": true
+ },
+ "dg-belo-cafe": {
+  "google": "https://www.google.com/search?q=Bel%C3%B4%20Caf%C3%A9%20Savassi%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/belocafebh",
+  "checked": true
+ },
+ "dg-benjamin-bar-e-parrilla": {
+  "google": "https://www.google.com/search?q=Benjamin%20Bar%20e%20Parrilla%20Padre%20Eust%C3%A1quio%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/obenjaminbar",
+  "checked": true
+ },
+ "dg-benvindo": {
+  "google": "https://www.google.com/search?q=Benvindo%20Lourdes%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/benvindo_",
+  "checked": true
+ },
+ "dg-berilo": {
+  "google": "https://www.google.com/search?q=Berilo%20Savassi%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/berilo.cozinhaedrinks",
+  "checked": true
+ },
+ "dg-berrys-iced-food-castelo": {
+  "google": "https://www.google.com/search?q=Berry's%20Iced%20Food%20(Castelo)%20Castelo%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/berrysbhcastelo",
+  "checked": true
+ },
+ "dg-berrys-iced-food-omh": {
+  "google": "https://www.google.com/search?q=Berry's%20Iced%20Food%20(Funcion%C3%A1rios)%20Funcion%C3%A1rios%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/berryssavassi",
+  "checked": true
+ },
+ "dg-berco-da-tereza": {
+  "google": "https://www.google.com/search?q=Ber%C3%A7o%20da%20Tereza%20Santa%20Tereza%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/bercodatereza",
+  "checked": true
+ },
+ "dg-bistro-home": {
+  "google": "https://www.google.com/search?q=Bistr%C3%B4%20Home%20Olhos%20D'%C3%81gua%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/pizzas_gourmet_bistro",
+  "checked": true
+ },
+ "dg-bolos-de-julieta": {
+  "google": "https://www.google.com/search?q=Bolos%20de%20Julieta%20S%C3%A3o%20Luiz%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/bolosdejulieta",
+  "checked": true
+ },
+ "dg-bordo-gastro-vino": {
+  "google": "https://www.google.com/search?q=Bord%C3%B4%20Gastro%20Vino%20Funcion%C3%A1rios%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/bordogastrovino",
+  "checked": true
+ },
+ "dg-boteco-fiado-sante": {
+  "google": "https://www.google.com/search?q=Boteco%20Fiado%20Sant%C3%AA%20Horto%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/fiadosante",
+  "checked": true
+ },
+ "dg-boteco-novo": {
+  "google": "https://www.google.com/search?q=Boteco%20Novo%20Barreiro%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/boteconovo",
+  "checked": true
+ },
+ "dg-botanico-mangabeiras": {
+  "google": "https://www.google.com/search?q=Bot%C3%A2nico%20(Mangabeiras)%20Mangabeiras%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/meubotanico",
+  "checked": true
+ },
+ "dg-burger-na-brasa": {
+  "google": "https://www.google.com/search?q=Burger%20na%20Brasa%20Cora%C3%A7%C3%A3o%20Eucar%C3%ADstico%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/burgernabrasa.bh",
+  "checked": true
+ },
+ "dg-butecos-bar": {
+  "google": "https://www.google.com/search?q=Buteco's%20Bar%20Jardim%20Atl%C3%A2ntico%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/butecos_bar",
+  "checked": true
+ },
+ "dg-ceva": {
+  "google": "https://www.google.com/search?q=CEVA%20Santa%20Tereza%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/cevabh",
+  "checked": true
+ },
+ "dg-cabana-restaurante-argentino": {
+  "google": "https://www.google.com/search?q=Caba%C3%B1a%20Porte%C3%B1a%20Parrilla%20(Diamond%20Mall)%20Lourdes%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/cabanadiamondmall",
+  "checked": true
+ },
+ "dg-cabana-portena-diamond-mall": {
+  "google": "https://www.google.com/search?q=Caba%C3%B1a%20Porte%C3%B1a%20Pizzaria%20(Diamond%20Mall)%20Lourdes%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/cabanadiamondmall",
+  "checked": true
+ },
+ "dg-cabernet-butiquim": {
+  "google": "https://www.google.com/search?q=Cabernet%20Butiquim%20Funcion%C3%A1rios%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/cabernetbutiquim",
+  "checked": true
+ },
+ "dg-cabruka-restaurante": {
+  "google": "https://www.google.com/search?q=Cabruka%20Restaurante%20Funcion%C3%A1rios%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/cabrukabr",
+  "checked": true
+ },
+ "dg-cafe-verly": {
+  "google": "https://www.google.com/search?q=Caf%C3%A9%20Verly%20Savassi%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/cafeverly",
+  "checked": true
+ },
+ "dg-cafe-com-letras": {
+  "google": "https://www.google.com/search?q=Caf%C3%A9%20com%20Letras%20(Savassi)%20Savassi%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/cafe_com_letras",
+  "checked": true
+ },
+ "dg-cafe-das-flores": {
+  "google": "https://www.google.com/search?q=Caf%C3%A9%20das%20Flores%20Lourdes%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/cafenolourdes",
+  "checked": true
+ },
+ "dg-caldos-da-vizinhanca--casa-riva": {
+  "google": "https://www.google.com/search?q=Caldos%20da%20Vizinhan%C3%A7a%2C%20Casa%20Riva%20Santa%20L%C3%BAcia%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/caldosdavizinhanca.bh",
+  "checked": true
+ },
+ "dg-camp-town-burger": {
+  "google": "https://www.google.com/search?q=Camp%20Town%20Burger%20Horto%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/camptownburger",
+  "checked": true
+ },
+ "dg-canela-amarela": {
+  "google": "https://www.google.com/search?q=Canela%20Amarela%20Gutierrez%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/canelaamarelabh",
+  "checked": true
+ },
+ "dg-cantina-azul": {
+  "google": "https://www.google.com/search?q=Cantina%20Azul%20Savassi%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/cantinaazulbh",
+  "checked": true
+ },
+ "dg-canto-de-mainha": {
+  "google": "https://www.google.com/search?q=Canto%20de%20Mainha%20Buritis%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/cantodemainha",
+  "checked": true
+ },
+ "dg-caprese-pizza-e-birra": {
+  "google": "https://www.google.com/search?q=Caprese%20Pizza%20e%20Birra%20Santa%20L%C3%BAcia%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/capresepizzaebirra",
+  "checked": true
+ },
+ "dg-carimbo-santa-tereza": {
+  "google": "https://www.google.com/search?q=Carimb%C3%B3%20(Santa%20Tereza)%20Santa%20Tereza%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/carimbo_frutas_nativas",
+  "checked": true
+ },
+ "dg-carmnella-pizza--pasta-presencial": {
+  "google": "https://www.google.com/search?q=Carmnella%20Pizza%20%26%20Pasta%20Castelo%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/carmnellapizza",
+  "checked": true
+ },
+ "dg-carpa-koi-duo": {
+  "google": "https://www.google.com/search?q=Carpa%20Koi%20Cidade%20Jardim%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/carpakoibh",
+  "checked": true
+ },
+ "dg-casa-arthur": {
+  "google": "https://www.google.com/search?q=Casa%20Arthur%20Santo%20Ant%C3%B4nio%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/casaarthur.bh",
+  "checked": true
+ },
+ "dg-casa-azeite": {
+  "google": "https://www.google.com/search?q=Casa%20Azeite%20Floresta%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/casa.azeite",
+  "checked": true
+ },
+ "dg-casa-baanko": {
+  "google": "https://www.google.com/search?q=Casa%20Baanko%20Funcion%C3%A1rios%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/casabaanko",
+  "checked": true
+ },
+ "dg-casa-calixto": {
+  "google": "https://www.google.com/search?q=Casa%20Calixto%20Savassi%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/casacalixtobh",
+  "checked": true
+ },
+ "dg-casa-duca": {
+  "google": "https://www.google.com/search?q=Casa%20Duca%20Floresta%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/acasaduca/",
+  "checked": true
+ },
+ "dg-casa-gabo": {
+  "google": "https://www.google.com/search?q=Casa%20Gabo%20Funcion%C3%A1rios%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/casa.gabo.bh/",
+  "checked": true
+ },
+ "dg-casa-venezuela-bistro": {
+  "google": "https://www.google.com/search?q=Casa%20Venezuela%20Bistr%C3%B4%20Funcion%C3%A1rios%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/casavenezuelabistro/",
+  "checked": true
+ },
+ "dg-uva": {
+  "google": "https://www.google.com/search?q=Casa%20da%20Uva%20Cruzeiro%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/acasadauva/",
+  "checked": true
+ },
+ "dg-casa-do-churrasco": {
+  "google": "https://www.google.com/search?q=Casa%20do%20Churrasco%20Santa%20L%C3%BAcia%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-casa-dus-amigos": {
+  "google": "https://www.google.com/search?q=Casa%20dus%20Amigos%20Santa%20Efig%C3%AAnia%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/casadusamigos/",
+  "checked": true
+ },
+ "dg-cae-restaurante-bar": {
+  "google": "https://www.google.com/search?q=Ca%C3%AA%20Sion%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/caerestaurantebar/",
+  "checked": true
+ },
+ "dg-cervejaria-cultura": {
+  "google": "https://www.google.com/search?q=Cervejaria%20Cultura%20Conc%C3%B3rdia%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/cervejaria.cultura/",
+  "checked": true
+ },
+ "dg-cervejaria-fillys": {
+  "google": "https://www.google.com/search?q=Cervejaria%20Fillys%20Castelo%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/cervejariafillys/",
+  "checked": true
+ },
+ "dg-charcutaria-tapera": {
+  "google": "https://www.google.com/search?q=Charcutaria%20Tapera%20Centro%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/charcutariatapera/",
+  "checked": true
+ },
+ "dg-chef-house-steak-gourmet-castelo": {
+  "google": "https://www.google.com/search?q=Chef%20House%20Steak%20Gourmet%20(Castelo)%20Castelo%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/chefhousebr/",
+  "checked": true
+ },
+ "dg-cheirin-bao-anchieta": {
+  "google": "https://www.google.com/search?q=Cheirin%20B%C3%A3o%20(Anchieta)%20Anchieta%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/lojacheirinbao.anchieta/",
+  "checked": true
+ },
+ "dg-cheirin-bao-santo-agostinho": {
+  "google": "https://www.google.com/search?q=Cheirin%20B%C3%A3o%20(Assembleia)%20Santo%20Agostinho%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/cheirinbao_assembleia40/",
+  "checked": true
+ },
+ "dg-cheirin-bao-belvedere": {
+  "google": "https://www.google.com/search?q=Cheirin%20B%C3%A3o%20(Belvedere)%20Belvedere%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/cheirinbaobelvedere/",
+  "checked": true
+ },
+ "dg-cheirin-bao-boa-viagem": {
+  "google": "https://www.google.com/search?q=Cheirin%20B%C3%A3o%20(Boa%20Viagem)%20Centro%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/cheirinbaoboaviagem/",
+  "checked": true
+ },
+ "dg-cheirin-bao-buritis": {
+  "google": "https://www.google.com/search?q=Cheirin%20B%C3%A3o%20(Buritis)%20Buritis%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/cheirinbaoburitis/",
+  "checked": true
+ },
+ "dg-cheirin-bao-floresta": {
+  "google": "https://www.google.com/search?q=Cheirin%20B%C3%A3o%20(Floresta)%20Floresta%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/cheirinbaofbh/",
+  "checked": true
+ },
+ "dg-cheirin-bao-funcionarios": {
+  "google": "https://www.google.com/search?q=Cheirin%20B%C3%A3o%20(Funcion%C3%A1rios)%20Funcion%C3%A1rios%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/cheirinbaofuncionarios/",
+  "checked": true
+ },
+ "dg-cheirin-bao-lourdes": {
+  "google": "https://www.google.com/search?q=Cheirin%20B%C3%A3o%20(Lourdes)%20Lourdes%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/cheirinbaolourdesbh/",
+  "checked": true
+ },
+ "dg-cheirin-bao-praca-da-liberdade": {
+  "google": "https://www.google.com/search?q=Cheirin%20B%C3%A3o%20(Pra%C3%A7a%20da%20Liberdade)%20Lourdes%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/cheirinbaopracadaliberdade/",
+  "checked": true
+ },
+ "dg-cheirin-bao-prudente-de-morais": {
+  "google": "https://www.google.com/search?q=Cheirin%20B%C3%A3o%20(Prudente%20de%20Morais)%20Cora%C3%A7%C3%A3o%20de%20Jesus%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/loja.cheirinbaoprudentebh/",
+  "checked": true
+ },
+ "dg-cheirin-bao-santa-efigencia": {
+  "google": "https://www.google.com/search?q=Cheirin%20B%C3%A3o%20(Santa%20Efig%C3%AAnia)%20Santa%20Efig%C3%AAnia%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/cheirinbao.santaefigenia/",
+  "checked": true
+ },
+ "dg-cheirin-bao-savassi": {
+  "google": "https://www.google.com/search?q=Cheirin%20B%C3%A3o%20(Savassi)%20Savassi%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/cheirinbao.savassi/",
+  "checked": true
+ },
+ "dg-cheirin-bao-shopping-cidade": {
+  "google": "https://www.google.com/search?q=Cheirin%20B%C3%A3o%20(Shopping%20Cidade)%20Centro%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/cheirinbao.shoppingcidade/",
+  "checked": true
+ },
+ "dg-cheirin-bao-silva-lobo": {
+  "google": "https://www.google.com/search?q=Cheirin%20B%C3%A3o%20(Silva%20Lobo)%20Nova%20Granada%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/cheirinbaosilvalobo/",
+  "checked": true
+ },
+ "dg-cheirin-bao-unibh": {
+  "google": "https://www.google.com/search?q=Cheirin%20B%C3%A3o%20(UniBH)%20Buritis%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/cheirinbaoburitisunibh/",
+  "checked": true
+ },
+ "dg-cia-do-boi-shopping-cidade": {
+  "google": "https://www.google.com/search?q=Cia%20do%20Boi%20(Shopping%20Cidade)%20Centro%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/ciadoboioficial/",
+  "checked": true
+ },
+ "dg-cia-do-boi-8mt": {
+  "google": "https://www.google.com/search?q=Cia%20do%20Boi%20(Sion)%20Sion%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/ciadoboioficial/",
+  "checked": true
+ },
+ "dg-classicb": {
+  "google": "https://www.google.com/search?q=ClassicB%20Diamante%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/classicb_bh/",
+  "checked": true
+ },
+ "dg-clube-de-jazz-do-cafe-com-letras": {
+  "google": "https://www.google.com/search?q=Clube%20de%20Jazz%20Funcion%C3%A1rios%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/clubedejazzdocafe/",
+  "checked": true
+ },
+ "dg-coco-bambu-del-rey": {
+  "google": "https://www.google.com/search?q=Coco%20Bambu%20(Del%20Rey)%20Cai%C3%A7aras%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/cocobambubhoficial/",
+  "checked": true
+ },
+ "dg-contemplaria-do-camarao": {
+  "google": "https://www.google.com/search?q=Contemplaria%20do%20Camar%C3%A3o%20Prado%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/contemplariadocamarao/",
+  "checked": true
+ },
+ "dg-cozinha-de-fogo-presencial": {
+  "google": "https://www.google.com/search?q=Cozinha%20Beag%C3%A1%20(BH%20Shopping)%20Belvedere%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/cozinhabeaga/",
+  "checked": true
+ },
+ "dg-cozinha-santo-antonio": {
+  "google": "https://www.google.com/search?q=Cozinha%20Santo%20Ant%C3%B4nio%20Santo%20Ant%C3%B4nio%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/cozinha_santoantonio/",
+  "checked": true
+ },
+ "dg-dbulltique-parrilla-vinhos-e-cervejaria": {
+  "google": "https://www.google.com/search?q=D'Bulltique%20Parrilla%2C%20Vinhos%20e%20Cervejaria%20Castelo%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/dbulltique/",
+  "checked": true
+ },
+ "dg-da-vila-creperia": {
+  "google": "https://www.google.com/search?q=Da%20Vila%20Creperia%20Ouro%20Preto%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/davila.creperia/",
+  "checked": true
+ },
+ "dg-dal-grano": {
+  "google": "https://www.google.com/search?q=Dal%20Grano%20Pampulha%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/dal_grano/",
+  "checked": true
+ },
+ "dg-deck-165": {
+  "google": "https://www.google.com/search?q=Deck%20165%20Uni%C3%A3o%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/deck_165/",
+  "checked": true
+ },
+ "dg-desaforo-pizza--forno": {
+  "google": "https://www.google.com/search?q=Desaforo%20Pizza%20%26%20Forno%20Carmo%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/desaforopizza/",
+  "checked": true
+ },
+ "dg-distrito-pizza": {
+  "google": "https://www.google.com/search?q=Distrito%20Pizza%20(Savassi)%20Funcion%C3%A1rios%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/distritopizza/",
+  "checked": true
+ },
+ "dg-do-peixe": {
+  "google": "https://www.google.com/search?q=Do%20Peixe%20Santa%20Am%C3%A9lia%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/dopeixerestaurante/",
+  "checked": true
+ },
+ "dg-domenico-pizzeria--trattoria": {
+  "google": "https://www.google.com/search?q=Domenico%20Pizzeria%20%26%20Trattoria%20Savassi%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/domenicobh/",
+  "checked": true
+ },
+ "dg-dona-carola": {
+  "google": "https://www.google.com/search?q=Dona%20Carola%20Santa%20Tereza%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/donacarolabh/",
+  "checked": true
+ },
+ "dg-dona-flo-mercado-novo": {
+  "google": "https://www.google.com/search?q=Dona%20Fl%C3%B4%20(Mercado%20Novo)%20Centro%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/donaflomexicano/",
+  "checked": true
+ },
+ "dg-dona-fulo": {
+  "google": "https://www.google.com/search?q=Dona%20Ful%C3%B4%20(Lourdes)%20Lourdes%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/restaurantedonafulo/",
+  "checked": true
+ },
+ "dg-dona-lucinha-presencial": {
+  "google": "https://www.google.com/search?q=Dona%20Lucinha%20Savassi%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/donalucinharestaurante/",
+  "checked": true
+ },
+ "dg-dope-baked": {
+  "google": "https://www.google.com/search?q=Dope%20Baked%20S%C3%A3o%20Pedro%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/dope.bkd/",
+  "checked": true
+ },
+ "dg-dumanga-comidaria-baiana": {
+  "google": "https://www.google.com/search?q=Dumanga%20Comidaria%20Baiana%20Lourdes%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/dumangacomidaria/",
+  "checked": true
+ },
+ "dg-eats": {
+  "google": "https://www.google.com/search?q=Eats%20(Hotel%20Transamerica%20Executive)%20Cai%C3%A7aras%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-elis-bar": {
+  "google": "https://www.google.com/search?q=Elis%20Bar%20Buritis%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/elisbaroficial/",
+  "checked": true
+ },
+ "dg-emporio-da-picanha": {
+  "google": "https://www.google.com/search?q=Emp%C3%B3rio%20da%20Picanha%20Cora%C3%A7%C3%A3o%20Eucar%C3%ADstico%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/emporiodapicanhabh_/",
+  "checked": true
+ },
+ "dg-espetinhos-do-paulao": {
+  "google": "https://www.google.com/search?q=Espetinhos%20do%20Paul%C3%A3o%20Vila%20Ermelinda%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/espetinhos_do_paulao_/",
+  "checked": true
+ },
+ "dg-esquina-sante": {
+  "google": "https://www.google.com/search?q=Esquina%20Sant%C3%AA%20Santa%20Tereza%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/esquinasante/",
+  "checked": true
+ },
+ "dg-est-est-est-ristorante-italiano--savassi": {
+  "google": "https://www.google.com/search?q=Est!%20Est!!%20Est!!!%20(Savassi)%20Savassi%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/estcucina/",
+  "checked": true
+ },
+ "dg-eu-te-amo-burger-buritis": {
+  "google": "https://www.google.com/search?q=Eu%20Te%20Amo%20Burger%20(Buritis)%20Santa%20L%C3%BAcia%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/euteamoburgerr/",
+  "checked": true
+ },
+ "dg-eu-te-amo-burger": {
+  "google": "https://www.google.com/search?q=Eu%20Te%20Amo%20Burger%20(Mangabeiras)%20Mangabeiras%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/euteamoburgerr/",
+  "checked": true
+ },
+ "dg-farinharia-pizza--co": {
+  "google": "https://www.google.com/search?q=Farinharia%20Pizza%20%26%20Co%20(Bot%C3%A2nico%20Shopping)%20Belvedere%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/farinhariapizza/",
+  "checked": true
+ },
+ "dg-farinharia-pizza--co-casa-verona": {
+  "google": "https://www.google.com/search?q=Farinharia%20Pizza%20%26%20Co%20(Casa%20Verona)%20S%C3%A3o%20Luiz%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/farinhariapizza/",
+  "checked": true
+ },
+ "dg-fuba-bar-e-comida": {
+  "google": "https://www.google.com/search?q=Fub%C3%A1%20Bar%20e%20Comida%20Funcion%C3%A1rios%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/fubabarecomida/",
+  "checked": true
+ },
+ "dg-gastro-hub": {
+  "google": "https://www.google.com/search?q=Gastr%C3%B4%20Hub%20Serra%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/gastrohub.bh/",
+  "checked": true
+ },
+ "dg-gelateria-borelli-shopping-boulevard": {
+  "google": "https://www.google.com/search?q=Gelateria%20Borelli%20(Shopping%20Boulevard)%20Santa%20Efig%C3%AAnia%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/gelatoborelli.bh/",
+  "checked": true
+ },
+ "dg-gelateria-borelli-shopping-del-rey": {
+  "google": "https://www.google.com/search?q=Gelateria%20Borelli%20(Shopping%20Del%20Rey)%20Cai%C3%A7aras%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/gelatoborelli.bh/",
+  "checked": true
+ },
+ "dg-la-macelleria-anchieta": {
+  "google": "https://www.google.com/search?q=Geraldinho%2C%20O%20Conceito%20da%20Carne%20Anchieta%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/geraldinhoconceitodacarne/",
+  "checked": true
+ },
+ "dg-giaco-pizzaria": {
+  "google": "https://www.google.com/search?q=Giaco%20Pizzaria%20Prado%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/pizzagiaco/",
+  "checked": true
+ },
+ "dg-giardino-la-macelleria": {
+  "google": "https://www.google.com/search?q=Giardino%20La%20Macelleria%20Lourdes%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/giardinobarbh/",
+  "checked": true
+ },
+ "dg-glouton": {
+  "google": "https://www.google.com/search?q=Glouton%20Lourdes%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/gloutonbh/",
+  "checked": true
+ },
+ "dg-goncalves-bar": {
+  "google": "https://www.google.com/search?q=Gon%C3%A7alves%20Bar%20Savassi%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/bar.goncalves/",
+  "checked": true
+ },
+ "dg-gujorebar": {
+  "google": "https://www.google.com/search?q=Gujorebar%20Savassi%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/gujorebarsavassi/",
+  "checked": true
+ },
+ "dg-gumbo-soulfood": {
+  "google": "https://www.google.com/search?q=Gumbo%20Soulfood%20Centro%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/gumbosoulfood/",
+  "checked": true
+ },
+ "dg-hakuna-batata-buritis": {
+  "google": "https://www.google.com/search?q=Hakuna%20Batata%20(Buritis)%20Buritis%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-hakuna-batata-coreu": {
+  "google": "https://www.google.com/search?q=Hakuna%20Batata%20(Coreu)%20Cora%C3%A7%C3%A3o%20Eucar%C3%ADstico%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/hakuna_batata.coreu/",
+  "checked": true
+ },
+ "dg-hakuna-batata-savassi": {
+  "google": "https://www.google.com/search?q=Hakuna%20Batata%20(Savassi)%20Savassi%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/hakunabatatasavassi/",
+  "checked": true
+ },
+ "dg-hakuna-batata-shopping-estacao": {
+  "google": "https://www.google.com/search?q=Hakuna%20Batata%20(Shopping%20Esta%C3%A7%C3%A3o)%20Venda%20Nova%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/hakunabatataestacao/",
+  "checked": true
+ },
+ "dg-hamburgueria-182-savassi": {
+  "google": "https://www.google.com/search?q=Hamburgueria%20182%20(Savassi)%20Santo%20Ant%C3%B4nio%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/hamburgueria182savassi/",
+  "checked": true
+ },
+ "dg-hou-mei": {
+  "google": "https://www.google.com/search?q=Hou%20Mei%20Lourdes%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/houmeibh/",
+  "checked": true
+ },
+ "dg-indian-gourmet": {
+  "google": "https://www.google.com/search?q=Indian%20Gourmet%20Lourdes%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/indiangourmetbh/",
+  "checked": true
+ },
+ "dg-inter-cafe-belvedere": {
+  "google": "https://www.google.com/search?q=Inter%20Caf%C3%A9%20(Belvedere)%20Belvedere%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/intercafe/",
+  "checked": true
+ },
+ "dg-inter-cafe-meeting-shops": {
+  "google": "https://www.google.com/search?q=Inter%20Caf%C3%A9%20(Meeting%20Shops)%20Belvedere%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/intercafe/",
+  "checked": true
+ },
+ "dg-jabu-drinkeria": {
+  "google": "https://www.google.com/search?q=Jabu%20Drinkeria%20Buritis%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-james-burger": {
+  "google": "https://www.google.com/search?q=James%20Burger%20Savassi%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-jirau-gastrobar": {
+  "google": "https://www.google.com/search?q=Jirau%20Gastrobar%20Lourdes%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/jiraugastrobar/",
+  "checked": true
+ },
+ "dg-juistreet-belvedere": {
+  "google": "https://www.google.com/search?q=Juistreet%20(Belvedere)%20Belvedere%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/juistreet/",
+  "checked": true
+ },
+ "dg-juistreet-fleming": {
+  "google": "https://www.google.com/search?q=Juistreet%20(Fleming)%20Ouro%20Preto%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/juistreet/",
+  "checked": true
+ },
+ "dg-jangal": {
+  "google": "https://www.google.com/search?q=J%C3%A2ngal%20Cruzeiro%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/jangalbh/",
+  "checked": true
+ },
+ "dg-kanpai-pnn": {
+  "google": "https://www.google.com/search?q=Kanpai%20(Lourdes)%20Lourdes%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/kanpaibh/",
+  "checked": true
+ },
+ "dg-kei-n9f": {
+  "google": "https://www.google.com/search?q=Kei%20(Lourdes)%20Lourdes%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/keicozinhajaponesa/",
+  "checked": true
+ },
+ "dg-kinoko-presencialretirada": {
+  "google": "https://www.google.com/search?q=Kinoko%20(Rod%C3%ADzio)%20Buritis%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/kinokorestaurante/",
+  "checked": true
+ },
+ "dg-kinoko": {
+  "google": "https://www.google.com/search?q=Kinoko%20(%C3%80%20La%20Carte)%20Buritis%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/kinokorestaurante/",
+  "checked": true
+ },
+ "dg-kolac-confeitaria": {
+  "google": "https://www.google.com/search?q=Kolac%20Confeitaria%20S%C3%A3o%20Pedro%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/kolacconfeitaria/",
+  "checked": true
+ },
+ "dg-kopenhagen-raja": {
+  "google": "https://www.google.com/search?q=Kopenhagen%20(Raja)%20Jardim%20Cidade%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-korea-chicken-bh-pampulha": {
+  "google": "https://www.google.com/search?q=Korea%20Chicken%20BH%20(Pampulha)%20Ouro%20Preto%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-la-bayer-chef": {
+  "google": "https://www.google.com/search?q=La%20Bayer%20Chef%20Cai%C3%A7ara%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-la-macelleria-vila-da-serra": {
+  "google": "https://www.google.com/search?q=La%20Macelleria%20(Lourdes)%20Lourdes%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-la-palma": {
+  "google": "https://www.google.com/search?q=La%20Palma%20Aeroporto%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-la-traviata": {
+  "google": "https://www.google.com/search?q=La%20Traviata%20(Savassi)%20Savassi%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-la-traviata-osteria-sion": {
+  "google": "https://www.google.com/search?q=La%20Traviata%20Osteria%20(Sion)%20Sion%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-la-vinicola-savassi": {
+  "google": "https://www.google.com/search?q=La%20Vinicola%20(Savassi)%20Savassi%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-la-vinicola-wine-bar-lourdes": {
+  "google": "https://www.google.com/search?q=La%20Vinicola%20Wine%20Bar%20(Lourdes)%20Lourdes%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-ladeira": {
+  "google": "https://www.google.com/search?q=Ladeira%20Centro%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-lagar-tragaluz": {
+  "google": "https://www.google.com/search?q=Lagar%20Tragaluz%20Santo%20Agostinho%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-laicos-bar": {
+  "google": "https://www.google.com/search?q=Laicos%20Bar%20Savassi%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-las-chicas-vegan": {
+  "google": "https://www.google.com/search?q=Las%20Chicas%20Vegan%20Centro%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-laure-coffee": {
+  "google": "https://www.google.com/search?q=Laure%20Coffee%20Stand%20Lourdes%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-leopoldina-pizza": {
+  "google": "https://www.google.com/search?q=Leopoldina%20Pizza%20Centro%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-ludocafe-bh": {
+  "google": "https://www.google.com/search?q=LudoCaf%C3%A9%20BH%20Santo%20Ant%C3%B4nio%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-lullo-gelato-minas-shopping": {
+  "google": "https://www.google.com/search?q=Lullo%20Gelato%20(Minas%20Shopping)%20Uni%C3%A3o%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-lullo-gelato-patio-savassi": {
+  "google": "https://www.google.com/search?q=Lullo%20Gelato%20(P%C3%A1tio%20Savassi)%20S%C3%A3o%20Pedro%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-luppo-pizzaria": {
+  "google": "https://www.google.com/search?q=Luppo%20Pizzaria%20Castelo%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-macareu": {
+  "google": "https://www.google.com/search?q=Macar%C3%A9u%20Belvedere%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-andar-17": {
+  "google": "https://www.google.com/search?q=Madregaia%20Cora%C3%A7%C3%A3o%20de%20Jesus%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-mama-cafe": {
+  "google": "https://www.google.com/search?q=Mama%20Caf%C3%A9%20Horto%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-maneco--o-quintal-mineiro": {
+  "google": "https://www.google.com/search?q=Maneco%2C%20O%20Quintal%20Mineiro%20Prado%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-manganelli": {
+  "google": "https://www.google.com/search?q=Manganelli%20Luxemburgo%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-manni-cafes-especiais": {
+  "google": "https://www.google.com/search?q=Mann%C3%AD%20Caf%C3%A9s%20Especiais%20Lourdes%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-margarida-cozinha-mediterranea": {
+  "google": "https://www.google.com/search?q=Margarida%20Funcion%C3%A1rios%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-massala-pampulha": {
+  "google": "https://www.google.com/search?q=Massala%20(Pampulha)%20Pampulha%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-massala": {
+  "google": "https://www.google.com/search?q=Massala%20(Savassi)%20Savassi%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-maue-emporio": {
+  "google": "https://www.google.com/search?q=Mau%C3%AA%20Emp%C3%B3rio%20Cidade%20Nova%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-maurizio-gallo": {
+  "google": "https://www.google.com/search?q=Maur%C3%ADzio%20Gallo%20Lourdes%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-me-gusta": {
+  "google": "https://www.google.com/search?q=Me%20Gusta%20Belvedere%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-meatco": {
+  "google": "https://www.google.com/search?q=Meat%26Co%20Belvedere%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-meatz-burger-buritis": {
+  "google": "https://www.google.com/search?q=Meatz%20Burger%20(Buritis)%20Buritis%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-meatz-burger-cidade-nova": {
+  "google": "https://www.google.com/search?q=Meatz%20Burger%20(Cidade%20Nova)%20Uni%C3%A3o%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-meatz-burger-pampulha": {
+  "google": "https://www.google.com/search?q=Meatz%20Burger%20(Pampulha)%20S%C3%A3o%20Jos%C3%A9%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-meatz-burger-santo-antonio": {
+  "google": "https://www.google.com/search?q=Meatz%20Burger%20(Santo%20Ant%C3%B4nio)%20Santo%20Ant%C3%B4nio%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-mercado-da-boca-buritis": {
+  "google": "https://www.google.com/search?q=Mercado%20da%20Boca%20(Buritis)%20Buritis%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-mercearia-tabaiare": {
+  "google": "https://www.google.com/search?q=Mercearia%20Tabaiares%20Floresta%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-merci-bar-a-vin": {
+  "google": "https://www.google.com/search?q=Merci%20Bar%20a%20Vin%20(Casa%20do%20Porto)%20Cidade%20Jardim%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-metropole-bistro": {
+  "google": "https://www.google.com/search?q=Metropole%20Bistr%C3%B4%20Santo%20Ant%C3%B4nio%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-y-burger": {
+  "google": "https://www.google.com/search?q=Meu%20Y%20Burger%20Sion%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/meuyburger/",
+  "checked": true
+ },
+ "dg-mi-garba-mangabeiras": {
+  "google": "https://www.google.com/search?q=Mi%20Garba%20(Mangabeiras)%20Mangabeiras%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/migarba/",
+  "checked": true
+ },
+ "dg-mister-pizza-h9c": {
+  "google": "https://www.google.com/search?q=Mister%20Pizza%20Santa%20L%C3%BAcia%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/misterpizzabh/",
+  "checked": true
+ },
+ "dg-momo-confeitaria-centro": {
+  "google": "https://www.google.com/search?q=Momo%20Confeitaria%20(Centro)%20Centro%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/momoconfeitaria/",
+  "checked": true
+ },
+ "dg-momo-confeitaria-floresta": {
+  "google": "https://www.google.com/search?q=Momo%20Confeitaria%20(Floresta)%20Floresta%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/momoconfeitaria/",
+  "checked": true
+ },
+ "dg-momo-confeitaria-savassi": {
+  "google": "https://www.google.com/search?q=Momo%20Confeitaria%20(Savassi)%20S%C3%A3o%20Pedro%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/momoconfeitaria/",
+  "checked": true
+ },
+ "dg-monka-cervejaria": {
+  "google": "https://www.google.com/search?q=Monka%20Cervejaria%20Olhos%20D'%C3%81gua%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/monkacervejaria/",
+  "checked": true
+ },
+ "dg-monte": {
+  "google": "https://www.google.com/search?q=Mont%C3%AA%20Centro%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/monte.beaga/",
+  "checked": true
+ },
+ "dg-moonalisa-cozinha": {
+  "google": "https://www.google.com/search?q=Moonalisa%20Cozinha%20Centro%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-nuh-cookies-shopping-cidade": {
+  "google": "https://www.google.com/search?q=NUH!%20Cookies%20e%20Caf%C3%A9%20(Shopping%20Cidade)%20Centro%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-nicolau-bar-da-esquina": {
+  "google": "https://www.google.com/search?q=Nicolau%20Bar%20da%20Esquina%20Belvedere%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/nicolaubardaesquina/",
+  "checked": true
+ },
+ "dg-ninetto-trattoria": {
+  "google": "https://www.google.com/search?q=Ninetto%20Trattoria%20Belvedere%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-ninita-cozinha": {
+  "google": "https://www.google.com/search?q=Ninita%20Cozinha%20Lourdes%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/ninitabh/",
+  "checked": true
+ },
+ "dg-nino": {
+  "google": "https://www.google.com/search?q=Nino%20Lourdes%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-nonna-carmela": {
+  "google": "https://www.google.com/search?q=Nonna%20Carmela%20Lourdes%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-nostra-burger": {
+  "google": "https://www.google.com/search?q=Nostra%20Burger%20Vale%20do%20Jatob%C3%A1%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-nu-galho-anchieta": {
+  "google": "https://www.google.com/search?q=Nu%20Galho%20(Anchieta)%20Anchieta%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-nuboa-sushi-e-restaurante": {
+  "google": "https://www.google.com/search?q=Nuboa%20Sushi%20e%20Restaurante%20Liberdade%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/nuboa.sushi/",
+  "checked": true
+ },
+ "dg-nuuu-restaurante": {
+  "google": "https://www.google.com/search?q=Nu%C3%BAu%20Restaurante%20Savassi%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/nuuurestaurante/",
+  "checked": true
+ },
+ "dg-o-candia": {
+  "google": "https://www.google.com/search?q=O%20Candi%C3%A1%20Bar%20Prado%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-o-ceu-da-boca": {
+  "google": "https://www.google.com/search?q=O%20C%C3%A9u%20da%20Boca%20Santa%20Efig%C3%AAnia%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-o-italiano": {
+  "google": "https://www.google.com/search?q=O%20Italiano%20Olhos%20D'%C3%81gua%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-oakberry-q0d": {
+  "google": "https://www.google.com/search?q=Oakberry%20(Buritis)%20Buritis%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/oakberry/",
+  "checked": true
+ },
+ "dg-odorico-cervejaria": {
+  "google": "https://www.google.com/search?q=Odorico%20Cervejaria%20S%C3%A3o%20Pedro%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-odoya": {
+  "google": "https://www.google.com/search?q=Odoya%20Savassi%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-ofelia-bar-e-restaurante": {
+  "google": "https://www.google.com/search?q=Of%C3%A9lia%20Bar%20e%20Restaurante%20Santa%20Efig%C3%AAnia%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-olga-nur": {
+  "google": "https://www.google.com/search?q=Olga%20Nur%20Lourdes%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/olganurbh/",
+  "checked": true
+ },
+ "dg-osso--lourdes": {
+  "google": "https://www.google.com/search?q=OssO%20(Lourdes)%20Lourdes%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-osteria-via-emilia": {
+  "google": "https://www.google.com/search?q=Osteria%20Via%20Em%C3%ADlia%20Santo%20Ant%C3%B4nio%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-osteria-via-emilia-lourdes": {
+  "google": "https://www.google.com/search?q=Osteria%20Via%20Em%C3%ADlia%20(Lourdes)%20Lourdes%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-pacato": {
+  "google": "https://www.google.com/search?q=Pacato%20Lourdes%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/pacatobh/",
+  "checked": true
+ },
+ "dg-pandawok": {
+  "google": "https://www.google.com/search?q=PandaWok%20Anchieta%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/pandawok.br/",
+  "checked": true
+ },
+ "dg-panorama-pizzaria": {
+  "google": "https://www.google.com/search?q=Panorama%20Pizzaria%20Floresta%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-paradiso": {
+  "google": "https://www.google.com/search?q=Paradiso%20Santo%20Ant%C3%B4nio%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/paradisorestaurante/",
+  "checked": true
+ },
+ "dg-parallel": {
+  "google": "https://www.google.com/search?q=Parallel%20Lourdes%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/parallel.bh/",
+  "checked": true
+ },
+ "dg-espaco-158bh": {
+  "google": "https://www.google.com/search?q=Parrilla%20Savassi%20158%20Funcion%C3%A1rios%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/espaco158bh/",
+  "checked": true
+ },
+ "dg-parrilla-do-prado-steak-bar": {
+  "google": "https://www.google.com/search?q=Parrilla%20do%20Prado%20Steak%20Bar%20Prado%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-partiu-cafe": {
+  "google": "https://www.google.com/search?q=Partiu%20Caf%C3%A9%20Lourdes%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/partiucafebh/",
+  "checked": true
+ },
+ "dg-pastaio-2gk": {
+  "google": "https://www.google.com/search?q=Pastaio%20Funcion%C3%A1rios%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/pastaiobh/",
+  "checked": true
+ },
+ "dg-pecorino-bar-e-trattoria": {
+  "google": "https://www.google.com/search?q=Pecorino%20Bar%20e%20Trattoria%20(Diamond%20Mall)%20Lourdes%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/pecorinobaretrattoria/",
+  "checked": true
+ },
+ "dg-pellegrino": {
+  "google": "https://www.google.com/search?q=Pellegrino%20Anchieta%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-per-lui": {
+  "google": "https://www.google.com/search?q=Per%20Lui%20Serra%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-picanha-bh": {
+  "google": "https://www.google.com/search?q=Picanha%20BH%20Jardim%20Am%C3%A9rica%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-picco-skybar--food": {
+  "google": "https://www.google.com/search?q=Picco%20SkyBar%20%26%20Food%20Buritis%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-picole": {
+  "google": "https://www.google.com/search?q=Picol%C3%A9%20Funcion%C3%A1rios%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-pipa-cozinha-boemia": {
+  "google": "https://www.google.com/search?q=Pipa!%20Cozinha%20Boemia%20Santo%20Ant%C3%B4nio%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-piratas": {
+  "google": "https://www.google.com/search?q=Piratas%20Coquet%C3%A9is%20e%20Parrilla%20Uni%C3%A3o%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-pizza-blu": {
+  "google": "https://www.google.com/search?q=Pizza%20Blu%20Santa%20L%C3%BAcia%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-pizza-melhor-preco-santa-lucia": {
+  "google": "https://www.google.com/search?q=Pizza%20Melhor%20Pre%C3%A7o%20(Santa%20L%C3%BAcia)%20Santa%20L%C3%BAcia%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-pizza-pazza-buritis": {
+  "google": "https://www.google.com/search?q=Pizza%20Pazza%20(Buritis)%20Buritis%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-pizza-pazza-presencial": {
+  "google": "https://www.google.com/search?q=Pizza%20Pazza%20(Savassi)%20Savassi%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-pizzaiolo-cidade-nova": {
+  "google": "https://www.google.com/search?q=Pizzaiolo%20Cidade%20Nova%20Cidade%20Nova%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-pizzaria-mangabeiras-castelo": {
+  "google": "https://www.google.com/search?q=Pizzaria%20Mangabeiras%20(Castelo)%20Castelo%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-pizzaria-mangabeiras-cidade-nova": {
+  "google": "https://www.google.com/search?q=Pizzaria%20Mangabeiras%20(Cidade%20Nova)%20Silveira%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-pizzaria-tia-penha-cidade-nova": {
+  "google": "https://www.google.com/search?q=Pizzaria%20Tia%20Penha%20(Cidade%20Nova)%20Uni%C3%A3o%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-pizzaria-tia-penha-santa-ines": {
+  "google": "https://www.google.com/search?q=Pizzaria%20Tia%20Penha%20(Santa%20In%C3%AAs)%20Santa%20In%C3%AAs%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-planeta-lupulo": {
+  "google": "https://www.google.com/search?q=Planeta%20L%C3%BApulo%20Santa%20Am%C3%A9lia%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-poke-up--castelo": {
+  "google": "https://www.google.com/search?q=Poke%20Up!%20(Castelo)%20Castelo%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-poke-up-alberto-cintra": {
+  "google": "https://www.google.com/search?q=Poke%20Up!%20(Alberto%20Cintra)%20Uni%C3%A3o%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-poke-up-serra": {
+  "google": "https://www.google.com/search?q=Poke%20Up!%20(Serra)%20Serra%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-pop-kid": {
+  "google": "https://www.google.com/search?q=Pop%20Kid%20Centro%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-porcao": {
+  "google": "https://www.google.com/search?q=Porc%C3%A3o%20(Raja)%20S%C3%A3o%20Bento%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/porcaobh/",
+  "checked": true
+ },
+ "dg-porto-fino-boulevard-shopping": {
+  "google": "https://www.google.com/search?q=Porto%20Fino%20Restaurante%20(Boulevard%20Shopping)%20Santa%20Efig%C3%AAnia%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-praiou-beach-sport-lounge": {
+  "google": "https://www.google.com/search?q=Praiou%20Beach%20Sport%20Lounge%20Estoril%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-primeli-bistro": {
+  "google": "https://www.google.com/search?q=Primeli%20Bistr%C3%B4%20Horto%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-puro-gelato": {
+  "google": "https://www.google.com/search?q=Puro%20Gelato%20Buritis%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-perola-da-cidade": {
+  "google": "https://www.google.com/search?q=P%C3%A9rola%20da%20Cidade%20Carlos%20Prates%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-que-pizza": {
+  "google": "https://www.google.com/search?q=Que%20Pizza!%20Santa%20L%C3%BAcia%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-quermesse": {
+  "google": "https://www.google.com/search?q=Quermesse%20Funcion%C3%A1rios%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-quintal-savassi": {
+  "google": "https://www.google.com/search?q=Quintal%20Savassi%20Savassi%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-quintal-do-durval": {
+  "google": "https://www.google.com/search?q=Quintal%20do%20Durval%20Santa%20Tereza%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-quinto-do-ouro": {
+  "google": "https://www.google.com/search?q=Quinto%20do%20Ouro%20Ipiranga%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-restaurante-nascente": {
+  "google": "https://www.google.com/search?q=Restaurante%20Nascente%20Santo%20Ant%C3%B4nio%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-restaurante-do-ano": {
+  "google": "https://www.google.com/search?q=Restaurante%20do%20Ano%20Savassi%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-rex-bibendi-restaurante": {
+  "google": "https://www.google.com/search?q=Rex%20Bibendi%20Restaurante%20Funcion%C3%A1rios%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-riu-bar": {
+  "google": "https://www.google.com/search?q=Ri%C3%BA%20Bar%20Savassi%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-roma-panetteria": {
+  "google": "https://www.google.com/search?q=Roma%20Panetteria%20Belvedere%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-romeo-pizza-bar-buritis": {
+  "google": "https://www.google.com/search?q=Romeo%20(Shopping%20Paragem)%20Buritis%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-rullus-bistro-lourdes": {
+  "google": "https://www.google.com/search?q=Rullus%20Bistr%C3%B4%20(Lourdes)%20Lourdes%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-santa-pizza-4wj": {
+  "google": "https://www.google.com/search?q=Santa%20Pizza%20Sagrada%20Fam%C3%ADlia%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-sanville-grill": {
+  "google": "https://www.google.com/search?q=Sanville%20Grill%20Uni%C3%A3o%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/sanville.grill/",
+  "checked": true
+ },
+ "dg-satoru-padre-eustaquio": {
+  "google": "https://www.google.com/search?q=Satoru%20(Padre%20Eust%C3%A1quio)%20Padre%20Eust%C3%A1quio%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-seu-bias": {
+  "google": "https://www.google.com/search?q=Seu%20Bias%20Lourdes%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-shitake-5bk": {
+  "google": "https://www.google.com/search?q=Shitake%20Mangabeiras%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-show-de-sabor": {
+  "google": "https://www.google.com/search?q=Show%20de%20Sabor%20Sagrada%20Fam%C3%ADlia%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-sirene-fleming": {
+  "google": "https://www.google.com/search?q=Sir%C3%A8ne%20(Fleming)%20Ouro%20Preto%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-soft-sabore": {
+  "google": "https://www.google.com/search?q=SoftSabores%20Mangabeiras%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-spicy--restaurante-lounge-e-bar": {
+  "google": "https://www.google.com/search?q=Spicy%2C%20Restaurante%20Lounge%20e%20Bar%20Carmo%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-sr-silva-pastelaria": {
+  "google": "https://www.google.com/search?q=Sr%20Silva%20Pastelaria%20Buritis%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-stadt-jever": {
+  "google": "https://www.google.com/search?q=Stadt%20Jever%20Funcion%C3%A1rios%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-steakbh-oficial": {
+  "google": "https://www.google.com/search?q=SteakBH%20Oficial%20Buritis%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-suribim-no-espeto": {
+  "google": "https://www.google.com/search?q=Surubim%20no%20Espeto%20Uni%C3%A3o%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-sushi-japa-alberto-cintra": {
+  "google": "https://www.google.com/search?q=Sushi%20Japa%20(Alberto%20Cintra)%20Uni%C3%A3o%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-sushi-up-alberto-cintra": {
+  "google": "https://www.google.com/search?q=Sushi%20Up!%20(Alberto%20Cintra)%20Uni%C3%A3o%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-sushi-up-castelo": {
+  "google": "https://www.google.com/search?q=Sushi%20Up!%20(Castelo)%20Castelo%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-sushi-up-serra": {
+  "google": "https://www.google.com/search?q=Sushi%20Up!%20(Serra)%20Serra%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-sypie-cookies": {
+  "google": "https://www.google.com/search?q=Sypi%C3%AA%20Cookies%20Planalto%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-tt-burger": {
+  "google": "https://www.google.com/search?q=T.T.%20Burger%20Carmo%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-tom-cozinha-de-heranca": {
+  "google": "https://www.google.com/search?q=TOM%20Cozinha%20de%20Heran%C3%A7a%20Centro%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-taberna-livorno": {
+  "google": "https://www.google.com/search?q=Taberna%20Livorno%20Castelo%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-taika": {
+  "google": "https://www.google.com/search?q=Taika%20Belvedere%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-terraco-nie": {
+  "google": "https://www.google.com/search?q=Terra%C3%A7o%20Ni%C3%AA%20(Centro)%20Centro%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-the-bacons-burger-savassi": {
+  "google": "https://www.google.com/search?q=The%20Bacons%20Burger%20(Savassi)%20Savassi%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-the-bridge-pub": {
+  "google": "https://www.google.com/search?q=The%20Bridge%20Pub%20Funcion%C3%A1rios%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-the-burger-co": {
+  "google": "https://www.google.com/search?q=The%20Burger%20Co%20Cruzeiro%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-the-butcher": {
+  "google": "https://www.google.com/search?q=The%20Butcher%20Minas%20Brasil%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-the-house-food-e-fun": {
+  "google": "https://www.google.com/search?q=The%20House%20Food%20e%20Fun%20Savassi%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-the-meat-club": {
+  "google": "https://www.google.com/search?q=The%20Meat%20Club%20Santo%20Agostinho%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-the-mexican-gastropub": {
+  "google": "https://www.google.com/search?q=The%20Mexican%20Gastropub%20Sagrada%20Fam%C3%ADlia%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-timbuca": {
+  "google": "https://www.google.com/search?q=Timbuca%20Serra%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-tons-de-verde-cafe": {
+  "google": "https://www.google.com/search?q=Tons%20de%20Verde%20Caf%C3%A9%20Castelo%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-torum-bar-e-parrila": {
+  "google": "https://www.google.com/search?q=Tor%C3%BAm%20Bar%20e%20Parrila%20Estoril%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-trattoria-grill": {
+  "google": "https://www.google.com/search?q=Trattoria%20Grill%20(BH%20Shopping)%20Belvedere%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-trip-food-floresta": {
+  "google": "https://www.google.com/search?q=Trip%20Food%20(Floresta)%20Floresta%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-tua-pizza": {
+  "google": "https://www.google.com/search?q=Tua%20Pizza%20Anchieta%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-uai-se-cream": {
+  "google": "https://www.google.com/search?q=UAI%20SE%20CREAM%20Centro%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-uluru-cafe": {
+  "google": "https://www.google.com/search?q=Uluru%20Caf%C3%A9%20(Funcion%C3%A1rios)%20Funcion%C3%A1rios%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/uluru.cafe/",
+  "checked": true
+ },
+ "dg-uluru-cafe-patio-savassi": {
+  "google": "https://www.google.com/search?q=Uluru%20Caf%C3%A9%20(P%C3%A1tio%20Savassi)%20S%C3%A3o%20Pedro%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/uluru.cafe/",
+  "checked": true
+ },
+ "dg-almanaque--cidade-nova": {
+  "google": "https://www.google.com/search?q=Vaca%20Loka%20%2F%20Almanaque%20(Cidade%20Nova)%20Cidade%20Nova%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-valle-gastronomico": {
+  "google": "https://www.google.com/search?q=Valle%20Gastron%C3%B4mico%20Olhos%20D'%C3%81gua%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-varanda-1389-lourdes": {
+  "google": "https://www.google.com/search?q=Varanda%201389%20(Lourdes)%20Lourdes%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-versatil-gastro-beer": {
+  "google": "https://www.google.com/search?q=Vers%C3%A1til%20Gastro%20Beer%20Santa%20Am%C3%A9lia%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-villa-acqua": {
+  "google": "https://www.google.com/search?q=Villa%20Acqua%20Santo%20Agostinho%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-villa-cafe-store-prado": {
+  "google": "https://www.google.com/search?q=Villa%20Caf%C3%A9%20Store%20(Prado)%20Prado%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-ville-boca-do-forno-lourdes": {
+  "google": "https://www.google.com/search?q=Ville%20Boca%20do%20Forno%20(Lourdes)%20Lourdes%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-villeon": {
+  "google": "https://www.google.com/search?q=Villeon%20Luxemburgo%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-vinho--ponto-buritis": {
+  "google": "https://www.google.com/search?q=Vinho%20%26%20Ponto%20(Buritis)%20Buritis%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-vino-cidade-nova": {
+  "google": "https://www.google.com/search?q=Vino!%20(Cidade%20Nova)%20Uni%C3%A3o%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-vino-savassi": {
+  "google": "https://www.google.com/search?q=Vino!%20(Savassi)%20Savassi%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-vista-mediteraneo": {
+  "google": "https://www.google.com/search?q=Vista%20Mediterr%C3%A2neo%20Belvedere%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-war-point-coffee": {
+  "google": "https://www.google.com/search?q=War%20Point%20Coffee%20Nova%20Granada%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-xodo": {
+  "google": "https://www.google.com/search?q=Xod%C3%B3%20Savassi%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-yokai-izakaya": {
+  "google": "https://www.google.com/search?q=Yokai%20Izakaya%20Funcion%C3%A1rios%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-zaika-tandoor": {
+  "google": "https://www.google.com/search?q=Zaika%20Tandoor%20(Serra)%20Serra%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-zoom-zoom-bar": {
+  "google": "https://www.google.com/search?q=Zoom%20Zoom%20Bar%20Lourdes%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-zuzunely": {
+  "google": "https://www.google.com/search?q=ZuzuNely%20Santo%20Agostinho%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-aflora-secreta": {
+  "google": "https://www.google.com/search?q=aFlora%20Cora%C3%A7%C3%A3o%20de%20Jesus%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-el-mai": {
+  "google": "https://www.google.com/search?q=el%20Mai%20Lourdes%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-o-chefe": {
+  "google": "https://www.google.com/search?q=%C3%94%20Chefe%20(Lourdes)%20Lourdes%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "dg-okinaki": {
+  "google": "https://www.google.com/search?q=%C5%8Ckinaki%20Lourdes%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "local-minascentro": {
+  "google": "https://www.google.com/search?q=Minascentro%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "local-jângal, cruzeiro": {
+  "google": "https://www.google.com/search?q=J%C3%A2ngal%2C%20Cruzeiro%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "local-a autêntica, santa efigênia": {
+  "google": "https://www.google.com/search?q=A%20Aut%C3%AAntica%2C%20Santa%20Efig%C3%AAnia%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "local-sesc palladium": {
+  "google": "https://www.google.com/search?q=Sesc%20Palladium%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "local-funarte": {
+  "google": "https://www.google.com/search?q=Funarte%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/funarte/",
+  "checked": true
+ },
+ "local-teatro feluma": {
+  "google": "https://www.google.com/search?q=Teatro%20Feluma%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": true
+ },
+ "local-praça do papa, mangabeiras": {
+  "google": "https://www.google.com/search?q=Pra%C3%A7a%20do%20Papa%2C%20Mangabeiras%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": false
+ }
+}
