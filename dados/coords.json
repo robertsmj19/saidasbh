@@ -2374,5 +2374,35 @@
   "lon": -43.9146067,
   "approx": false,
   "src": "nominatim"
+ },
+ "local-cine santa tereza": {
+  "lat": -19.9163137,
+  "lon": -43.9168092,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "local-casa fiat de cultura": {
+  "lat": -19.9344518,
+  "lon": -43.9396076,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "local-alpendre 70, santa tereza": {
+  "lat": -19.9148921,
+  "lon": -43.9170461,
+  "approx": true,
+  "src": "bairro"
+ },
+ "local-centro cultural unimed-bh minas": {
+  "lat": -19.9208,
+  "lon": -43.9378,
+  "approx": true,
+  "src": "cidade"
+ },
+ "local-cine theatro brasil vallourec": {
+  "lat": -19.9208,
+  "lon": -43.9378,
+  "approx": true,
+  "src": "cidade"
  }
 }

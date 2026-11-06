@@ -17,3 +17,13 @@
 - Teste de sintaxe do JS: passou.
 - Tag de backup: backup/pre-update-2026-11-06
 - Pendente: domingo 8/11 e quarta 11/11 do Zoo (a fonte não lista as datas), preços e dias de eventos do CCBB (domínio sem acesso).
+
+## 2026-11-06, terceira rodada (semana alvo: 9 a 15/11/2026)
+
+- Fontes que responderam: 6 de 7. Palácio das Artes (3 propostos), Clib (7), Circuito Liberdade (2, CCBB), CCBB BH (4), Sesc Minas (2, completados pelo Clib), Cine Santa Tereza (1), Portal BH /eventos (1). Portal BH /eventos/gratuitos falhou com HTTP 404; as demais páginas do Portal BH só deram listagem.
+- Eventos propostos: 16. Entraram 11 novos e 2 existentes (Karamazovianas, Eu e Meu Monstro) ganharam preço R$ 30 conferido no CCBB. Não entraram: Exposição de Longa Duração do CCBB (data de início inventada pelo pesquisador), Visões Táteis 5 (ano não confirmado na página), Cinema e Psicanálise Ata-me (página com data conflitante), Sonora Brasil (local e horário inconsistentes).
+- Revisão (opus): 13 itens auditados, 12 aprovados e 1 reprovado em parte. Em "Mil maneiras de matar o tempo" o trecho "Diariamente, das 10h às 21h" não estava na página; foi trocado por "Em cartaz até 22/11." e o evento ficou.
+- Eventos antigos removidos: 0 (nenhum terminou há mais de 14 dias).
+- Geocodificação: Casa Fiat, Cine Santa Tereza e Alpendre 70 (bairro) resolvidos; Centro Cultural Unimed-BH Minas e Cine Theatro Brasil Vallourec caíram no centro da cidade (aproximado). Coordenada nova do Zoo descartada (errada, o Zoo usa a chave `zoo`).
+- Teste de sintaxe do JS: passou.
+- Tag de backup: backup/pre-update-2026-11-06 (cópia em backups/2026-11-06-2/, para não sobrescrever a anterior).
