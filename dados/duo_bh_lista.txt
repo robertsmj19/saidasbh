@@ -1,0 +1,348 @@
+477-pizzeria|477 Pizzeria|Pizzaria|4,9|Santa Lúcia
+68-la-pizzeria-lourdes-presencialretirada|68 La Pizzeria (Lourdes)|Pizzaria|4,8|Lourdes
+a2-bistro|A2 Bistrô|Europeia|4,7|Palmares
+avra|AVRA|Contemporânea|4,9|Lourdes
+aje-bistro-bar-presencial|Ajê Bistrô Bar|Internacional|4,8|Santa Tereza
+akane-cozinha-japonesa|Akane Cozinha Japonesa|Japonesa|4,8|Belvedere
+aleixo-pizzaria|Aleixo Pizzaria|Pizzaria|4,8|Lourdes
+alentos-sorvetes-artesanais-buritis|Alento Sorvetes Artesanais (Buritis)|Sorveteria|4,8|Buritis
+alentos-sorvetes-artesanais-mercado-novo|Alento Sorvetes Artesanais (Mercado Novo)|Sorveteria|4,9|Centro
+alguidares|Alguidares|Frutos do Mar|4,9|Anchieta
+almanaque-anchieta|Almanaque (Anchieta)|Bar|4,8|Anchieta
+almanaque-savassi|Almanaque (Savassi)|Bar|4,8|Funcionários
+amado-lourdes|Amado Lourdes|Contemporânea|4,7|Lourdes
+american-day-castelo|American Day (Castelo)|Confeitaria|4,7|Castelo
+american-day|American Day (Savassi)|Confeitaria|4,9|Funcionários
+amoreira-71|Amoreira 71|Autoral||Serra
+amy-wine-bar|Amy Wine Bar|Contemporânea|4,7|Olhos D'Água
+ancho|Ancho|Brasileira|4,7|Lourdes
+angelas-pizza-bar|Angela's Pizza Bar|Pizzaria|5,0|Savassi
+anoz-gastrobar|Anoz Gastrobar|Variada|4,6|Ouro Preto
+vino-buritis|Arreda|Gastrobar|4,6|Buritis
+asia-emporium|Asia Emporium|Japonesa|4,4|São Pedro
+axado-restaurante-e-bar|Axado Restaurante e Bar|Brasileira|4,5|Buritis
+azougue-parrila|Azougue Parrilla (Serra)|Parrilla|4,6|Serra
+badejo-sao-pedro|Badejo (São Pedro)|Frutos do Mar|4,6|São Pedro
+bag-burger|Bag Burger|Hamburgueria|4,7|Caiçara-Adelaide
+baladin|Baladin|Argentina|4,8|Sion
+bar-222|Bar 222|Bar|4,8|Anchieta
+bar-ideal|Bar Ideal|Variada|4,9|Buritis
+bar-vertice|Bar Vértice|Bar|4,0|Lourdes
+bar-da-lora-savassi|Bar da Lora (Savassi)|Comida de boteco|4,8|Savassi
+bar-do-kanto|Bar do Kanto|Bar|4,7|Savassi
+bar-do-sergio-ii|Bar do Sergio II|Bar|4,7|Renascença
+bar-do-tiao|Bar do Tião|Bar|3,2|Prado
+ali-ba-bar-contorno|Bar e Restaurante Villa Agostine|Bar|4,7|Lourdes
+bar-do-mago|Bardo Mago|Bar|4,8|Horto
+barolio-356|Barolio (356)|Italiana|4,9|Olhos D'Água
+barolio-savassi|Barolio (Savassi)|Italiana|4,9|Savassi
+baxo-bar|Baxo Bar|Bar|4,8|Funcionários
+bebedouro-356|Bebedouro 356|Bar|4,6|Olhos D'Água
+beco-ditalia|Beco D'Itália|Italiana|4,8|Santa Tereza
+beerstock-pub|Beerstock Pub|Gastrobar|4,7|Buritis
+beji-sushi-veg|Bejí Sushi Veg|Japonesa||Centro
+belo-cafe|Belô Café|Brasileira|4,7|Savassi
+benjamin-bar-e-parrilla|Benjamin Bar e Parrilla|Brasileira|4,5|Padre Eustáquio
+benvindo|Benvindo|Contemporânea|4,8|Lourdes
+berilo|Berilo|Internacional|4,7|Savassi
+berrys-iced-food-castelo|Berry's Iced Food (Castelo)|Sorveteria|4,8|Castelo
+berrys-iced-food-omh|Berry's Iced Food (Funcionários)|Sorveteria|4,9|Funcionários
+berco-da-tereza|Berço da Tereza|Bar|4,4|Santa Tereza
+bistro-home|Bistrô Home|Pizzaria|4,9|Olhos D'Água
+bolos-de-julieta|Bolos de Julieta|Cafeteria|4,8|São Luiz
+bordo-gastro-vino|Bordô Gastro Vino|Brasileira|4,8|Funcionários
+boteco-fiado-sante|Boteco Fiado Santê|Boteco|4,7|Horto
+boteco-novo|Boteco Novo|Bar|4,6|Barreiro
+botanico-mangabeiras|Botânico (Mangabeiras)|Bar|4,7|Mangabeiras
+burger-na-brasa|Burger na Brasa|Hamburgueria|4,1|Coração Eucarístico
+butecos-bar|Buteco's Bar|Bar|4,6|Jardim Atlântico
+ceva|CEVA|Variada|4,9|Santa Tereza
+cabana-restaurante-argentino|Cabaña Porteña Parrilla (Diamond Mall)|Parrilla|4,7|Lourdes
+cabana-portena-diamond-mall|Cabaña Porteña Pizzaria (Diamond Mall)|Pizzaria|4,5|Lourdes
+cabernet-butiquim|Cabernet Butiquim|Contemporânea|4,8|Funcionários
+cabruka-restaurante|Cabruka Restaurante|Baiana|4,8|Funcionários
+cafe-verly|Café Verly|Cafeteria|4,6|Savassi
+cafe-com-letras|Café com Letras (Savassi)|Contemporânea|4,9|Savassi
+cafe-das-flores|Café das Flores|Mineira|4,8|Lourdes
+caldos-da-vizinhanca--casa-riva|Caldos da Vizinhança, Casa Riva|Variada|4,7|Santa Lúcia
+camp-town-burger|Camp Town Burger|Hamburgueria|4,9|Horto
+canela-amarela|Canela Amarela|Bar|4,0|Gutierrez
+cantina-azul|Cantina Azul|Comida de boteco|4,9|Savassi
+canto-de-mainha|Canto de Mainha|Brasileira|4,8|Buritis
+caprese-pizza-e-birra|Caprese Pizza e Birra|Pizzaria|4,8|Santa Lúcia
+carimbo-santa-tereza|Carimbó (Santa Tereza)|Brasileira|4,9|Santa Tereza
+carmnella-pizza--pasta-presencial|Carmnella Pizza & Pasta|Pizzaria|4,9|Castelo
+carpa-koi-duo|Carpa Koi|Japonesa|4,5|Cidade Jardim
+casa-arthur|Casa Arthur|Autoral|4,7|Santo Antônio
+casa-azeite|Casa Azeite|Autoral|4,8|Floresta
+casa-baanko|Casa Baanko|Gastrobar|4,5|Funcionários
+casa-calixto|Casa Calixto|Contemporânea|4,9|Savassi
+casa-duca|Casa Duca|Cafeteria|4,8|Floresta
+casa-gabo|Casa Gabo|Bar|4,7|Funcionários
+casa-venezuela-bistro|Casa Venezuela Bistrô|Venezuelana|4,9|Funcionários
+uva|Casa da Uva|Contemporânea|4,7|Cruzeiro
+casa-do-churrasco|Casa do Churrasco|Carnes|4,8|Santa Lúcia
+casa-dus-amigos|Casa dus Amigos|Brasileira|4,6|Santa Efigênia
+cae-restaurante-bar|Caê|Contemporânea|4,9|Sion
+cervejaria-cultura|Cervejaria Cultura|Brasileira|4,8|Concórdia
+cervejaria-fillys|Cervejaria Fillys|Carnes|4,7|Castelo
+charcutaria-tapera|Charcutaria Tapera|Mineira|4,8|Centro
+chef-house-steak-gourmet-castelo|Chef House Steak Gourmet (Castelo)|Contemporânea|4,4|Castelo
+cheirin-bao-anchieta|Cheirin Bão (Anchieta)|Sanduíche|5,0|Anchieta
+cheirin-bao-santo-agostinho|Cheirin Bão (Assembleia)|Cafeteria|4,9|Santo Agostinho
+cheirin-bao-belvedere|Cheirin Bão (Belvedere)|Cafeteria|4,6|Belvedere
+cheirin-bao-boa-viagem|Cheirin Bão (Boa Viagem)|Cafeteria|4,9|Centro
+cheirin-bao-buritis|Cheirin Bão (Buritis)|Cafeteria|4,6|Buritis
+cheirin-bao-floresta|Cheirin Bão (Floresta)|Cafeteria|4,8|Floresta
+cheirin-bao-funcionarios|Cheirin Bão (Funcionários)|Cafeteria|4,5|Funcionários
+cheirin-bao-lourdes|Cheirin Bão (Lourdes)|Cafeteria|4,8|Lourdes
+cheirin-bao-praca-da-liberdade|Cheirin Bão (Praça da Liberdade)|Cafeteria|4,8|Lourdes
+cheirin-bao-prudente-de-morais|Cheirin Bão (Prudente de Morais)|Cafeteria||Coração de Jesus
+cheirin-bao-santa-efigencia|Cheirin Bão (Santa Efigênia)|Cafeteria|4,9|Santa Efigênia
+cheirin-bao-savassi|Cheirin Bão (Savassi)|Cafeteria|4,7|Savassi
+cheirin-bao-shopping-cidade|Cheirin Bão (Shopping Cidade)|Cafeteria|4,6|Centro
+cheirin-bao-silva-lobo|Cheirin Bão (Silva Lobo)|Cafeteria|4,9|Nova Granada
+cheirin-bao-unibh|Cheirin Bão (UniBH)|Cafeteria|4,7|Buritis
+cia-do-boi-shopping-cidade|Cia do Boi (Shopping Cidade)|Carnes|4,3|Centro
+cia-do-boi-8mt|Cia do Boi (Sion)|Carnes|4,8|Sion
+classicb|ClassicB|Variada|4,9|Diamante
+clube-de-jazz-do-cafe-com-letras|Clube de Jazz|Contemporânea|4,8|Funcionários
+coco-bambu-del-rey|Coco Bambu (Del Rey)|Frutos do Mar|4,7|Caiçaras
+contemplaria-do-camarao|Contemplaria do Camarão|Brasileira|4,9|Prado
+cozinha-de-fogo-presencial|Cozinha Beagá (BH Shopping)|Carnes|4,8|Belvedere
+cozinha-santo-antonio|Cozinha Santo Antônio|Contemporânea|4,8|Santo Antônio
+dbulltique-parrilla-vinhos-e-cervejaria|D'Bulltique Parrilla, Vinhos e Cervejaria|Pub|4,9|Castelo
+da-vila-creperia|Da Vila Creperia|Creperia|4,9|Ouro Preto
+dal-grano|Dal Grano|Pizzaria|4,7|Pampulha
+deck-165|Deck 165|Variada|5,0|União
+desaforo-pizza--forno|Desaforo Pizza & Forno|Pizzaria|5,0|Carmo
+distrito-pizza|Distrito Pizza (Savassi)|Pizzaria|4,8|Funcionários
+do-peixe|Do Peixe|Brasileira|4,8|Santa Amélia
+domenico-pizzeria--trattoria|Domenico Pizzeria & Trattoria|Italiana|4,9|Savassi
+dona-carola|Dona Carola|Mineira|4,8|Santa Tereza
+dona-flo-mercado-novo|Dona Flô (Mercado Novo)|Mexicana|4,5|Centro
+dona-fulo|Dona Fulô (Lourdes)|Nordestina|4,9|Lourdes
+dona-lucinha-presencial|Dona Lucinha|Mineira|4,8|Savassi
+dope-baked|Dope Baked|Cafeteria|4,8|São Pedro
+dumanga-comidaria-baiana|Dumanga Comidaria Baiana|Baiana|4,8|Lourdes
+eats|Eats (Hotel Transamerica Executive)|Contemporânea|4,6|Caiçaras
+elis-bar|Elis Bar|Variada|4,8|Buritis
+emporio-da-picanha|Empório da Picanha|Bar|5,0|Coração Eucarístico
+espetinhos-do-paulao|Espetinhos do Paulão|Boteco|5,0|Vila Ermelinda
+esquina-sante|Esquina Santê|Variada|4,8|Santa Tereza
+est-est-est-ristorante-italiano--savassi|Est! Est!! Est!!! (Savassi)|Italiana|4,8|Savassi
+eu-te-amo-burger-buritis|Eu Te Amo Burger (Buritis)|Hamburgueria|4,7|Santa Lúcia
+eu-te-amo-burger|Eu Te Amo Burger (Mangabeiras)|Hamburgueria|4,7|Mangabeiras
+farinharia-pizza--co|Farinharia Pizza & Co (Botânico Shopping)|Pizzaria|5,0|Belvedere
+farinharia-pizza--co-casa-verona|Farinharia Pizza & Co (Casa Verona)|Pizzaria|4,7|São Luiz
+fuba-bar-e-comida|Fubá Bar e Comida|Brasileira|4,7|Funcionários
+gastro-hub|Gastrô Hub|Italiana|4,8|Serra
+gelateria-borelli-shopping-boulevard|Gelateria Borelli (Shopping Boulevard)|Gelateria|4,9|Santa Efigênia
+gelateria-borelli-shopping-del-rey|Gelateria Borelli (Shopping Del Rey)|Gelateria|4,9|Caiçaras
+la-macelleria-anchieta|Geraldinho, O Conceito da Carne|Steakhouse|4,9|Anchieta
+giaco-pizzaria|Giaco Pizzaria|Pizzaria|4,3|Prado
+giardino-la-macelleria|Giardino La Macelleria|Steakhouse|4,8|Lourdes
+glouton|Glouton|Contemporânea|4,9|Lourdes
+goncalves-bar|Gonçalves Bar|Boteco|2,7|Savassi
+gujorebar|Gujorebar|Bar|4,5|Savassi
+gumbo-soulfood|Gumbo Soulfood|Creole|4,9|Centro
+hakuna-batata-buritis|Hakuna Batata (Buritis)|Hamburgueria|4,7|Buritis
+hakuna-batata-coreu|Hakuna Batata (Coreu)|Hamburgueria|4,3|Coração Eucarístico
+hakuna-batata-savassi|Hakuna Batata (Savassi)|Hamburgueria|4,2|Savassi
+hakuna-batata-shopping-estacao|Hakuna Batata (Shopping Estação)|Hamburgueria|4,6|Venda Nova
+hamburgueria-182-savassi|Hamburgueria 182 (Savassi)|Hamburgueria|4,8|Santo Antônio
+hou-mei|Hou Mei|Asiática|4,9|Lourdes
+indian-gourmet|Indian Gourmet|Indiana|4,9|Lourdes
+inter-cafe-belvedere|Inter Café (Belvedere)|Cafeteria|4,9|Belvedere
+inter-cafe-meeting-shops|Inter Café (Meeting Shops)|Cafeteria|4,9|Belvedere
+jabu-drinkeria|Jabu Drinkeria|Bar|5,0|Buritis
+james-burger|James Burger|Hamburgueria|4,7|Savassi
+jirau-gastrobar|Jirau Gastrobar|Gastrobar|4,7|Lourdes
+juistreet-belvedere|Juistreet (Belvedere)|Natural|5,0|Belvedere
+juistreet-fleming|Juistreet (Fleming)|Natural|4,0|Ouro Preto
+jangal|Jângal|Gastrobar|4,4|Cruzeiro
+kanpai-pnn|Kanpai (Lourdes)|Japonesa|4,8|Lourdes
+kei-n9f|Kei (Lourdes)|Japonesa|5,0|Lourdes
+kinoko-presencialretirada|Kinoko (Rodízio)|Japonesa|4,7|Buritis
+kinoko|Kinoko (À La Carte)|Japonesa|4,7|Buritis
+kolac-confeitaria|Kolac Confeitaria|Cafeteria|4,8|São Pedro
+kopenhagen-raja|Kopenhagen (Raja)|Confeitaria|4,8|Jardim Cidade
+korea-chicken-bh-pampulha|Korea Chicken BH (Pampulha)|Coreana|4,6|Ouro Preto
+la-bayer-chef|La Bayer Chef|Carnes|4,5|Caiçara
+la-macelleria-vila-da-serra|La Macelleria (Lourdes)|Steakhouse|4,8|Lourdes
+la-palma|La Palma|Italiana|4,9|Aeroporto
+la-traviata|La Traviata (Savassi)|Italiana|4,8|Savassi
+la-traviata-osteria-sion|La Traviata Osteria (Sion)|Italiana|4,9|Sion
+la-vinicola-savassi|La Vinicola (Savassi)|Italiana|4,4|Savassi
+la-vinicola-wine-bar-lourdes|La Vinicola Wine Bar (Lourdes)|Wine Bar|4,6|Lourdes
+ladeira|Ladeira|Mineira|4,8|Centro
+lagar-tragaluz|Lagar Tragaluz|Contemporânea|4,9|Santo Agostinho
+laicos-bar|Laicos Bar|Bar|5,0|Savassi
+las-chicas-vegan|Las Chicas Vegan|Vegana|4,7|Centro
+laure-coffee|Laure Coffee Stand|Brasileira|5,0|Lourdes
+leopoldina-pizza|Leopoldina Pizza|Pizzaria|4,8|Centro
+ludocafe-bh|LudoCafé BH|Bar|4,6|Santo Antônio
+lullo-gelato-minas-shopping|Lullo Gelato (Minas Shopping)|Gelateria|4,7|União
+lullo-gelato-patio-savassi|Lullo Gelato (Pátio Savassi)|Gelateria|4,9|São Pedro
+luppo-pizzaria|Luppo Pizzaria|Pizzaria|4,8|Castelo
+macareu|Macaréu|Frutos do Mar|4,9|Belvedere
+andar-17|Madregaia|Brasileira|4,7|Coração de Jesus
+mama-cafe|Mama Café|Cafeteria|4,9|Horto
+maneco--o-quintal-mineiro|Maneco, O Quintal Mineiro|Bar|4,9|Prado
+manganelli|Manganelli|Brasileira|4,8|Luxemburgo
+manni-cafes-especiais|Manní Cafés Especiais|Cafeteria|4,5|Lourdes
+margarida-cozinha-mediterranea|Margarida|Mediterrânea|4,8|Funcionários
+massala-pampulha|Massala (Pampulha)|Indiana|4,7|Pampulha
+massala|Massala (Savassi)|Indiana|4,8|Savassi
+maue-emporio|Mauê Empório|Autoral||Cidade Nova
+maurizio-gallo|Maurízio Gallo|Italiana|4,7|Lourdes
+me-gusta|Me Gusta|Contemporânea|4,6|Belvedere
+meatco|Meat&Co|Carnes|4,8|Belvedere
+meatz-burger-buritis|Meatz Burger (Buritis)|Hamburgueria|4,8|Buritis
+meatz-burger-cidade-nova|Meatz Burger (Cidade Nova)|Hamburgueria|4,7|União
+meatz-burger-pampulha|Meatz Burger (Pampulha)|Hamburgueria|4,7|São José
+meatz-burger-santo-antonio|Meatz Burger (Santo Antônio)|Hamburgueria|4,3|Santo Antônio
+mercado-da-boca-buritis|Mercado da Boca (Buritis)|Variada|4,7|Buritis
+mercearia-tabaiare|Mercearia Tabaiares|Bar|4,4|Floresta
+merci-bar-a-vin|Merci Bar a Vin (Casa do Porto)|Contemporânea|4,8|Cidade Jardim
+metropole-bistro|Metropole Bistrô|Italiana|4,8|Santo Antônio
+y-burger|Meu Y Burger|Hamburgueria|4,8|Sion
+mi-garba-mangabeiras|Mi Garba (Mangabeiras)|Gelateria|4,8|Mangabeiras
+mister-pizza-h9c|Mister Pizza|Pizzaria|4,8|Santa Lúcia
+momo-confeitaria-centro|Momo Confeitaria (Centro)|Confeitaria|4,4|Centro
+momo-confeitaria-floresta|Momo Confeitaria (Floresta)|Confeitaria|4,5|Floresta
+momo-confeitaria-savassi|Momo Confeitaria (Savassi)|Confeitaria|4,6|São Pedro
+monka-cervejaria|Monka Cervejaria|Pub|4,7|Olhos D'Água
+monte|Montê|Mineira|4,7|Centro
+moonalisa-cozinha|Moonalisa Cozinha|Brasileira|4,9|Centro
+nuh-cookies-shopping-cidade|NUH! Cookies e Café (Shopping Cidade)|Doces|4,5|Centro
+nicolau-bar-da-esquina|Nicolau Bar da Esquina|Gastrobar|4,8|Belvedere
+ninetto-trattoria|Ninetto Trattoria|Italiana|4,8|Belvedere
+ninita-cozinha|Ninita Cozinha|Italiana|4,9|Lourdes
+nino|Nino|Italiana|4,8|Lourdes
+nonna-carmela|Nonna Carmela|Italiana|4,8|Lourdes
+nostra-burger|Nostra Burger|Hamburgueria|4,8|Vale do Jatobá
+nu-galho-anchieta|Nu Galho (Anchieta)|Comida de boteco|4,5|Anchieta
+nuboa-sushi-e-restaurante|Nuboa Sushi e Restaurante|Japonesa|4,1|Liberdade
+nuuu-restaurante|Nuúu Restaurante|Mineira|4,8|Savassi
+o-candia|O Candiá Bar|Mineira|4,8|Prado
+o-ceu-da-boca|O Céu da Boca|Mineira|4,9|Santa Efigênia
+o-italiano|O Italiano|Italiana|4,9|Olhos D'Água
+oakberry-q0d|Oakberry (Buritis)|Açaí|4,9|Buritis
+odorico-cervejaria|Odorico Cervejaria|Cervejaria|4,7|São Pedro
+odoya|Odoya|Frutos do Mar|4,8|Savassi
+ofelia-bar-e-restaurante|Ofélia Bar e Restaurante|Contemporânea|4,5|Santa Efigênia
+olga-nur|Olga Nur|Contemporânea|4,8|Lourdes
+osso--lourdes|OssO (Lourdes)|Contemporânea|4,7|Lourdes
+osteria-via-emilia|Osteria Via Emília|Italiana|4,6|Santo Antônio
+osteria-via-emilia-lourdes|Osteria Via Emília (Lourdes)|Pizzaria|4,7|Lourdes
+pacato|Pacato|Autoral|4,8|Lourdes
+pandawok|PandaWok|Asiática|4,7|Anchieta
+panorama-pizzaria|Panorama Pizzaria|Pizzaria|4,9|Floresta
+paradiso|Paradiso|Contemporânea|4,9|Santo Antônio
+parallel|Parallel|Espanhola|4,9|Lourdes
+espaco-158bh|Parrilla Savassi 158|Contemporânea|4,8|Funcionários
+parrilla-do-prado-steak-bar|Parrilla do Prado Steak Bar|Steakhouse|4,6|Prado
+partiu-cafe|Partiu Café|Cafeteria|4,7|Lourdes
+pastaio-2gk|Pastaio|Italiana|4,8|Funcionários
+pecorino-bar-e-trattoria|Pecorino Bar e Trattoria (Diamond Mall)|Mediterrânea|4,4|Lourdes
+pellegrino|Pellegrino|Contemporânea|4,8|Anchieta
+per-lui|Per Lui|Contemporânea|5,0|Serra
+picanha-bh|Picanha BH|Carnes|4,7|Jardim América
+picco-skybar--food|Picco SkyBar & Food|Contemporânea|4,2|Buritis
+picole|Picolé|Sorveteria|4,9|Funcionários
+pipa-cozinha-boemia|Pipa! Cozinha Boemia|Bar|4,8|Santo Antônio
+piratas|Piratas Coquetéis e Parrilla|Bar|5,0|União
+pizza-blu|Pizza Blu|Pizzaria|4,7|Santa Lúcia
+pizza-melhor-preco-santa-lucia|Pizza Melhor Preço (Santa Lúcia)|Pizzaria|4,8|Santa Lúcia
+pizza-pazza-buritis|Pizza Pazza (Buritis)|Pizzaria|4,9|Buritis
+pizza-pazza-presencial|Pizza Pazza (Savassi)|Pizzaria|4,9|Savassi
+pizzaiolo-cidade-nova|Pizzaiolo Cidade Nova|Brasileira|4,8|Cidade Nova
+pizzaria-mangabeiras-castelo|Pizzaria Mangabeiras (Castelo)|Pizzaria|4,7|Castelo
+pizzaria-mangabeiras-cidade-nova|Pizzaria Mangabeiras (Cidade Nova)|Pizzaria|5,0|Silveira
+pizzaria-tia-penha-cidade-nova|Pizzaria Tia Penha (Cidade Nova)|Pizzaria|4,9|União
+pizzaria-tia-penha-santa-ines|Pizzaria Tia Penha (Santa Inês)|Pizzaria|4,0|Santa Inês
+planeta-lupulo|Planeta Lúpulo|Bar|4,7|Santa Amélia
+poke-up--castelo|Poke Up! (Castelo)|Japonesa|4,8|Castelo
+poke-up-alberto-cintra|Poke Up! (Alberto Cintra)|Japonesa|4,7|União
+poke-up-serra|Poke Up! (Serra)|Japonesa|4,5|Serra
+pop-kid|Pop Kid|Brasileira|5,0|Centro
+porcao|Porcão (Raja)|Churrascaria|4,7|São Bento
+porto-fino-boulevard-shopping|Porto Fino Restaurante (Boulevard Shopping)|Brasileira|4,9|Santa Efigênia
+praiou-beach-sport-lounge|Praiou Beach Sport Lounge|Carnes|4,8|Estoril
+primeli-bistro|Primeli Bistrô|Italiana|5,0|Horto
+puro-gelato|Puro Gelato|Gelateria|4,9|Buritis
+perola-da-cidade|Pérola da Cidade|Frutos do Mar|5,0|Carlos Prates
+que-pizza|Que Pizza!|Pizzaria|4,6|Santa Lúcia
+quermesse|Quermesse|Bar|4,6|Funcionários
+quintal-savassi|Quintal Savassi|Brasileira|4,6|Savassi
+quintal-do-durval|Quintal do Durval|Contemporânea|3,8|Santa Tereza
+quinto-do-ouro|Quinto do Ouro|Contemporânea|4,7|Ipiranga
+restaurante-nascente|Restaurante Nascente|Vegetariana|4,9|Santo Antônio
+restaurante-do-ano|Restaurante do Ano|Pizzaria|4,9|Savassi
+rex-bibendi-restaurante|Rex Bibendi Restaurante|Contemporânea|4,8|Funcionários
+riu-bar|Riú Bar|Bar||Savassi
+roma-panetteria|Roma Panetteria|Padaria Artesanal|4,8|Belvedere
+romeo-pizza-bar-buritis|Romeo (Shopping Paragem)|Pizzaria|4,8|Buritis
+rullus-bistro-lourdes|Rullus Bistrô (Lourdes)|Contemporânea|4,9|Lourdes
+santa-pizza-4wj|Santa Pizza|Pizzaria|4,9|Sagrada Família
+sanville-grill|Sanville Grill|Contemporânea|4,4|União
+satoru-padre-eustaquio|Satoru (Padre Eustáquio)|Japonesa|4,8|Padre Eustáquio
+seu-bias|Seu Bias|Parrilla|4,7|Lourdes
+shitake-5bk|Shitake|Japonesa|4,9|Mangabeiras
+show-de-sabor|Show de Sabor|Churrascaria|5,0|Sagrada Família
+sirene-fleming|Sirène (Fleming)|Brasileira|4,7|Ouro Preto
+soft-sabore|SoftSabores|Saudável|4,3|Mangabeiras
+spicy--restaurante-lounge-e-bar|Spicy, Restaurante Lounge e Bar|Gastrobar|4,9|Carmo
+sr-silva-pastelaria|Sr Silva Pastelaria|Lanches|5,0|Buritis
+stadt-jever|Stadt Jever|Alemã|4,8|Funcionários
+steakbh-oficial|SteakBH Oficial|Bar|4,9|Buritis
+suribim-no-espeto|Surubim no Espeto|Frutos do Mar|4,7|União
+sushi-japa-alberto-cintra|Sushi Japa (Alberto Cintra)|Japonesa|4,6|União
+sushi-up-alberto-cintra|Sushi Up! (Alberto Cintra)|Japonesa|4,6|União
+sushi-up-castelo|Sushi Up! (Castelo)|Japonesa|4,7|Castelo
+sushi-up-serra|Sushi Up! (Serra)|Japonesa|4,4|Serra
+sypie-cookies|Sypiê Cookies|Doces|4,8|Planalto
+tt-burger|T.T. Burger|Hamburgueria|4,9|Carmo
+tom-cozinha-de-heranca|TOM Cozinha de Herança|Contemporânea|4,5|Centro
+taberna-livorno|Taberna Livorno|Italiana|4,8|Castelo
+taika|Taika|Japonesa|4,9|Belvedere
+terraco-nie|Terraço Niê (Centro)|Contemporânea|4,8|Centro
+the-bacons-burger-savassi|The Bacons Burger (Savassi)|Hamburgueria|4,1|Savassi
+the-bridge-pub|The Bridge Pub|Boteco|4,9|Funcionários
+the-burger-co|The Burger Co|Hamburgueria|4,8|Cruzeiro
+the-butcher|The Butcher|Hamburgueria|4,8|Minas Brasil
+the-house-food-e-fun|The House Food e Fun|Contemporânea|4,6|Savassi
+the-meat-club|The Meat Club|Contemporânea|4,8|Santo Agostinho
+the-mexican-gastropub|The Mexican Gastropub|Mexicana|3,9|Sagrada Família
+timbuca|Timbuca|Bar|4,8|Serra
+tons-de-verde-cafe|Tons de Verde Café|Cafeteria|4,7|Castelo
+torum-bar-e-parrila|Torúm Bar e Parrila|Brasileira|4,3|Estoril
+trattoria-grill|Trattoria Grill (BH Shopping)|Italiana|4,8|Belvedere
+trip-food-floresta|Trip Food (Floresta)|Internacional|4,5|Floresta
+tua-pizza|Tua Pizza|Pizzaria|4,6|Anchieta
+uai-se-cream|UAI SE CREAM|Sorveteria|4,4|Centro
+uluru-cafe|Uluru Café (Funcionários)|Variada|4,7|Funcionários
+uluru-cafe-patio-savassi|Uluru Café (Pátio Savassi)|Internacional|4,8|São Pedro
+almanaque--cidade-nova|Vaca Loka / Almanaque (Cidade Nova)|Bar|4,7|Cidade Nova
+valle-gastronomico|Valle Gastronômico|Brasileira|4,8|Olhos D'Água
+varanda-1389-lourdes|Varanda 1389 (Lourdes)|Brasileira|4,7|Lourdes
+versatil-gastro-beer|Versátil Gastro Beer|Variada|5,0|Santa Amélia
+villa-acqua|Villa Acqua|Internacional|4,9|Santo Agostinho
+villa-cafe-store-prado|Villa Café Store (Prado)|Cafeteria|4,5|Prado
+ville-boca-do-forno-lourdes|Ville Boca do Forno (Lourdes)|Cozinha Afetiva|4,9|Lourdes
+villeon|Villeon|Contemporânea|4,9|Luxemburgo
+vinho--ponto-buritis|Vinho & Ponto (Buritis)|Wine Bar|4,8|Buritis
+vino-cidade-nova|Vino! (Cidade Nova)|Wine Bar|4,7|União
+vino-savassi|Vino! (Savassi)|Italiana|4,8|Savassi
+vista-mediteraneo|Vista Mediterrâneo|Mediterrânea|4,8|Belvedere
+war-point-coffee|War Point Coffee|Cafeteria||Nova Granada
+xodo|Xodó|Hamburgueria|4,8|Savassi
+yokai-izakaya|Yokai Izakaya|Asiática|4,9|Funcionários
+zaika-tandoor|Zaika Tandoor (Serra)|Indiana|4,7|Serra
+zoom-zoom-bar|Zoom Zoom Bar|Bar|4,7|Lourdes
+zuzunely|ZuzuNely|Contemporânea|4,9|Santo Agostinho
+aflora-secreta|aFlora|Contemporânea|4,8|Coração de Jesus
+el-mai|el Mai|Japonesa|4,9|Lourdes
+o-chefe|Ô Chefe (Lourdes)|Steakhouse|4,6|Lourdes
+okinaki|Ōkinaki|Asiática|4,9|Lourdes
