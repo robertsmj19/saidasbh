@@ -2008,5 +2008,10 @@
   "google": "https://www.google.com/search?q=Cine%20Theatro%20Brasil%20Vallourec%20Belo%20Horizonte",
   "instagram": null,
   "checked": false
+ },
+ "local-sesc mezanino, centro": {
+  "google": "https://www.google.com/search?q=Sesc%20Mezanino%2C%20Centro%20Belo%20Horizonte",
+  "instagram": null,
+  "checked": false
  }
 }

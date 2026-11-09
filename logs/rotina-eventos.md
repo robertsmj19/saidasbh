@@ -27,3 +27,14 @@
 - Geocodificação: Casa Fiat, Cine Santa Tereza e Alpendre 70 (bairro) resolvidos; Centro Cultural Unimed-BH Minas e Cine Theatro Brasil Vallourec caíram no centro da cidade (aproximado). Coordenada nova do Zoo descartada (errada, o Zoo usa a chave `zoo`).
 - Teste de sintaxe do JS: passou.
 - Tag de backup: backup/pre-update-2026-11-06 (cópia em backups/2026-11-06-2/, para não sobrescrever a anterior).
+
+## 2026-11-09 (semana de 9/11 a 15/11)
+
+- Fontes (7): 6 responderam, 1 falhou. Portal BH /eventos/gratuitos deu 404 (a /eventos abriu, mas sem eventos datados da semana). Clib abriu só a primeira parte da listagem (sem paginação acessível). Em Circuito Liberdade, as páginas de IDEA, Minas Tênis Clube e MM Gerdau não abriram no ambiente.
+- Eventos úteis por fonte: Portal BH 6 (só da listagem), Clib 2, Circuito Liberdade 4 (3 só da listagem), Palácio das Artes 5, CCBB 0 novos, Sesc Minas 2, Cine Santa Tereza 1.
+- Propostos: 18. Cadastrados: 4 novos (Inter Alia, Exposição Picasso, Cineclube Comum: Visões Táteis 5, Sessão da Meia-Noite: Super Xuxa) e 1 atualização (grade de filmes do Cine Santa Tereza). Os demais ficaram de fora por não terem a página do próprio evento aberta (preço/data só da listagem), data inconsistente ou fora da semana (Cinema e Psicanálise, Reimagine Bach, Feira Pindorama, exposições só de listagem), preço acima de R$ 30 ou perfil de festa (Concertos Minas Tênis Clube R$ 34, Mahler e nós R$ 70, Quarta Livre).
+- Revisão (opus): 5 itens auditados, 4 aprovados e 1 reprovado em parte. Exposição Picasso tinha local errado ("Sesc Mezanino", que virou Sesc Palladium) e data de abertura trocada (24/10); corrigidos e o evento ficou. Ajuste opcional no Cine Santa Tereza (título do filme de 11/11) aplicado.
+- Eventos antigos removidos: 0.
+- Geocodificação: o local novo "Sesc Mezanino" foi descartado junto com a correção; a coordenada do Zoológico (errada, o Zoo usa a chave `zoo`) também foi descartada. Nenhuma coordenada nova ficou.
+- Teste de sintaxe do JS: passou.
+- Tag de backup: backup/pre-update-2026-11-09 (cópia em backups/2026-11-09/).

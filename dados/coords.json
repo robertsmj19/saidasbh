@@ -2404,5 +2404,11 @@
   "lon": -43.9378,
   "approx": true,
   "src": "cidade"
+ },
+ "local-sesc mezanino, centro": {
+  "lat": -19.9193308,
+  "lon": -43.9403488,
+  "approx": true,
+  "src": "bairro"
  }
 }
