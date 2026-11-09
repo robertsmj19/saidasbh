@@ -1,0 +1,2408 @@
+{
+ "inhotim": {
+  "lat": -20.1347,
+  "lon": -44.2158,
+  "approx": false,
+  "src": "manual"
+ },
+ "zoo": {
+  "lat": -19.8638036,
+  "lon": -43.9749287,
+  "approx": true,
+  "src": "bairro"
+ },
+ "pq-palacio": {
+  "lat": -19.9554344,
+  "lon": -43.9116092,
+  "approx": true,
+  "src": "bairro"
+ },
+ "parque-municipal": {
+  "lat": -19.9243,
+  "lon": -43.935,
+  "approx": false,
+  "src": "manual"
+ },
+ "pq-ecologico": {
+  "lat": -19.8461,
+  "lon": -43.97,
+  "approx": false,
+  "src": "manual"
+ },
+ "parque-mangabeiras": {
+  "lat": -19.9513,
+  "lon": -43.9055,
+  "approx": false,
+  "src": "manual"
+ },
+ "pq-serra-curral": {
+  "lat": -19.9627,
+  "lon": -43.9188,
+  "approx": false,
+  "src": "manual"
+ },
+ "pq-borboletas": {
+  "lat": -19.9577,
+  "lon": -43.9357,
+  "approx": false,
+  "src": "manual"
+ },
+ "lagoa-nado": {
+  "lat": -19.833,
+  "lon": -43.9614,
+  "approx": false,
+  "src": "manual"
+ },
+ "pq-cousteau": {
+  "lat": -19.9699594,
+  "lon": -43.9882102,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "pq-burle-marx": {
+  "lat": -20.0001,
+  "lon": -43.998,
+  "approx": false,
+  "src": "manual"
+ },
+ "pq-cassia-eller": {
+  "lat": -19.8828368,
+  "lon": -43.9914859,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "pq-renato-azeredo": {
+  "lat": -19.8752,
+  "lon": -43.9334,
+  "approx": false,
+  "src": "manual"
+ },
+ "pq-rosinha": {
+  "lat": -19.9321201,
+  "lon": -43.9521808,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "pq-jk": {
+  "lat": -19.9581,
+  "lon": -43.9302,
+  "approx": false,
+  "src": "manual"
+ },
+ "mercado-central": {
+  "lat": -19.9225815,
+  "lon": -43.9430243,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "praca-liberdade": {
+  "lat": -19.9325162,
+  "lon": -43.9273183,
+  "approx": true,
+  "src": "bairro"
+ },
+ "igrejinha": {
+  "lat": -19.8638036,
+  "lon": -43.9749287,
+  "approx": true,
+  "src": "bairro"
+ },
+ "palacio-artes": {
+  "lat": -19.9193308,
+  "lon": -43.9403488,
+  "approx": true,
+  "src": "bairro"
+ },
+ "cine-st": {
+  "lat": -19.9163137,
+  "lon": -43.9168092,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "puc-coreu": {
+  "lat": -19.9241216,
+  "lon": -43.989502,
+  "approx": true,
+  "src": "bairro"
+ },
+ "casa-kubitschek": {
+  "lat": -19.8547373,
+  "lon": -43.9798714,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "map": {
+  "lat": -19.8638036,
+  "lon": -43.9749287,
+  "approx": true,
+  "src": "bairro"
+ },
+ "mhab": {
+  "lat": -19.9365523,
+  "lon": -43.9479001,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "mumo": {
+  "lat": -19.9193308,
+  "lon": -43.9403488,
+  "approx": true,
+  "src": "bairro"
+ },
+ "mis-bh": {
+  "lat": -19.9269169,
+  "lon": -43.9401038,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "museu-artes-oficios": {
+  "lat": -19.9168736,
+  "lon": -43.9337983,
+  "approx": true,
+  "src": "bairro"
+ },
+ "casa-una": {
+  "lat": -19.9325162,
+  "lon": -43.9273183,
+  "approx": true,
+  "src": "bairro"
+ },
+ "estudio-nomade": {
+  "lat": -19.937246,
+  "lon": -43.9355817,
+  "approx": true,
+  "src": "bairro"
+ },
+ "xadrez-bh": {
+  "lat": -19.9315166,
+  "lon": -43.943439,
+  "approx": true,
+  "src": "bairro"
+ },
+ "duo-tripfood": {
+  "lat": -19.8390847,
+  "lon": -43.977884,
+  "approx": true,
+  "src": "bairro"
+ },
+ "duo-allmar": {
+  "lat": -19.856814,
+  "lon": -43.9676434,
+  "approx": true,
+  "src": "bairro"
+ },
+ "duo-bebedouro": {
+  "lat": -19.856814,
+  "lon": -43.9676434,
+  "approx": true,
+  "src": "bairro"
+ },
+ "duo-amadis": {
+  "lat": -19.8730839,
+  "lon": -43.9783029,
+  "approx": true,
+  "src": "bairro"
+ },
+ "duo-buteco-rod": {
+  "lat": -19.8743166,
+  "lon": -43.9881223,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "duo-labrasa": {
+  "lat": -19.8730839,
+  "lon": -43.9783029,
+  "approx": true,
+  "src": "bairro"
+ },
+ "duo-juveninha": {
+  "lat": -19.8793017,
+  "lon": -43.9995988,
+  "approx": true,
+  "src": "bairro"
+ },
+ "duo-pie": {
+  "lat": -19.8793017,
+  "lon": -43.9995988,
+  "approx": true,
+  "src": "bairro"
+ },
+ "duo-sr-espeto": {
+  "lat": -19.8793017,
+  "lon": -43.9995988,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-477-pizzeria": {
+  "lat": -19.9632256,
+  "lon": -43.945101,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-68-la-pizzeria-lourdes-presencialretirada": {
+  "lat": -19.9315166,
+  "lon": -43.943439,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-a2-bistro": {
+  "lat": -19.8731642,
+  "lon": -43.9338075,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-avra": {
+  "lat": -19.9315166,
+  "lon": -43.943439,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-aje-bistro-bar-presencial": {
+  "lat": -19.9148921,
+  "lon": -43.9170461,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-akane-cozinha-japonesa": {
+  "lat": -19.9802752,
+  "lon": -43.9465701,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-aleixo-pizzaria": {
+  "lat": -19.9315166,
+  "lon": -43.943439,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-alentos-sorvetes-artesanais-buritis": {
+  "lat": -19.9765791,
+  "lon": -43.9674165,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-alentos-sorvetes-artesanais-mercado-novo": {
+  "lat": -19.9193308,
+  "lon": -43.9403488,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-alguidares": {
+  "lat": -19.9490187,
+  "lon": -43.9269053,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-almanaque-anchieta": {
+  "lat": -19.9455282,
+  "lon": -43.9305636,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "dg-almanaque-savassi": {
+  "lat": -19.9325162,
+  "lon": -43.9273183,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-amado-lourdes": {
+  "lat": -19.9315166,
+  "lon": -43.943439,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-american-day-castelo": {
+  "lat": -19.8793017,
+  "lon": -43.9995988,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-american-day": {
+  "lat": -19.9325162,
+  "lon": -43.9273183,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-amoreira-71": {
+  "lat": -19.9405557,
+  "lon": -43.918423,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-amy-wine-bar": {
+  "lat": -19.9900458,
+  "lon": -43.9631249,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-ancho": {
+  "lat": -19.9316842,
+  "lon": -43.9450123,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "dg-angelas-pizza-bar": {
+  "lat": -19.937246,
+  "lon": -43.9355817,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-anoz-gastrobar": {
+  "lat": -19.8722536,
+  "lon": -43.9829877,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-vino-buritis": {
+  "lat": -19.9765791,
+  "lon": -43.9674165,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-asia-emporium": {
+  "lat": -19.947659,
+  "lon": -43.9375095,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-axado-restaurante-e-bar": {
+  "lat": -19.9765791,
+  "lon": -43.9674165,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-azougue-parrila": {
+  "lat": -19.9405557,
+  "lon": -43.918423,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-badejo-sao-pedro": {
+  "lat": -19.947659,
+  "lon": -43.9375095,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-bag-burger": {
+  "lat": -19.9051336,
+  "lon": -43.9749872,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-baladin": {
+  "lat": -19.9493624,
+  "lon": -43.9325869,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-bar-222": {
+  "lat": -19.9456523,
+  "lon": -43.9295759,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "dg-bar-ideal": {
+  "lat": -19.9765791,
+  "lon": -43.9674165,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-bar-vertice": {
+  "lat": -19.9315166,
+  "lon": -43.943439,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-bar-da-lora-savassi": {
+  "lat": -19.937246,
+  "lon": -43.9355817,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-bar-do-kanto": {
+  "lat": -19.937246,
+  "lon": -43.9355817,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-bar-do-sergio-ii": {
+  "lat": -19.8912995,
+  "lon": -43.9417132,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-bar-do-tiao": {
+  "lat": -19.9242039,
+  "lon": -43.9623499,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-ali-ba-bar-contorno": {
+  "lat": -19.9315166,
+  "lon": -43.943439,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-bar-do-mago": {
+  "lat": -19.9096053,
+  "lon": -43.9175098,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-barolio-356": {
+  "lat": -19.9900458,
+  "lon": -43.9631249,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-barolio-savassi": {
+  "lat": -19.937246,
+  "lon": -43.9355817,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-baxo-bar": {
+  "lat": -19.9325162,
+  "lon": -43.9273183,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-bebedouro-356": {
+  "lat": -19.9900458,
+  "lon": -43.9631249,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-beco-ditalia": {
+  "lat": -19.9148921,
+  "lon": -43.9170461,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-beerstock-pub": {
+  "lat": -19.9739092,
+  "lon": -43.9777138,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "dg-beji-sushi-veg": {
+  "lat": -19.9193308,
+  "lon": -43.9403488,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-belo-cafe": {
+  "lat": -19.937246,
+  "lon": -43.9355817,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-benjamin-bar-e-parrilla": {
+  "lat": -19.9143045,
+  "lon": -43.979356,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-benvindo": {
+  "lat": -19.9315166,
+  "lon": -43.943439,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-berilo": {
+  "lat": -19.9387593,
+  "lon": -43.9395336,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "dg-berrys-iced-food-castelo": {
+  "lat": -19.8793017,
+  "lon": -43.9995988,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-berrys-iced-food-omh": {
+  "lat": -19.9325162,
+  "lon": -43.9273183,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-berco-da-tereza": {
+  "lat": -19.9148921,
+  "lon": -43.9170461,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-bistro-home": {
+  "lat": -19.9900458,
+  "lon": -43.9631249,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-bolos-de-julieta": {
+  "lat": -19.856814,
+  "lon": -43.9676434,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-bordo-gastro-vino": {
+  "lat": -19.9325162,
+  "lon": -43.9273183,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-boteco-fiado-sante": {
+  "lat": -19.9096053,
+  "lon": -43.9175098,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-boteco-novo": {
+  "lat": -19.9769783,
+  "lon": -44.0185469,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-botanico-mangabeiras": {
+  "lat": -19.9554344,
+  "lon": -43.9116092,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-burger-na-brasa": {
+  "lat": -19.9241216,
+  "lon": -43.989502,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-butecos-bar": {
+  "lat": -19.8439129,
+  "lon": -43.9632219,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-ceva": {
+  "lat": -19.9170104,
+  "lon": -43.9254897,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "dg-cabana-restaurante-argentino": {
+  "lat": -19.9315166,
+  "lon": -43.943439,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-cabana-portena-diamond-mall": {
+  "lat": -19.9315166,
+  "lon": -43.943439,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-cabernet-butiquim": {
+  "lat": -19.9325162,
+  "lon": -43.9273183,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-cabruka-restaurante": {
+  "lat": -19.9325162,
+  "lon": -43.9273183,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-cafe-verly": {
+  "lat": -19.937246,
+  "lon": -43.9355817,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-cafe-com-letras": {
+  "lat": -19.9377855,
+  "lon": -43.9378839,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "dg-cafe-das-flores": {
+  "lat": -19.9315166,
+  "lon": -43.943439,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-caldos-da-vizinhanca--casa-riva": {
+  "lat": -19.9632256,
+  "lon": -43.945101,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-camp-town-burger": {
+  "lat": -19.9096053,
+  "lon": -43.9175098,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-canela-amarela": {
+  "lat": -19.9396376,
+  "lon": -43.9586691,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-cantina-azul": {
+  "lat": -19.937246,
+  "lon": -43.9355817,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-canto-de-mainha": {
+  "lat": -19.9765791,
+  "lon": -43.9674165,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-caprese-pizza-e-birra": {
+  "lat": -19.9632256,
+  "lon": -43.945101,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-carimbo-santa-tereza": {
+  "lat": -19.9148921,
+  "lon": -43.9170461,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-carmnella-pizza--pasta-presencial": {
+  "lat": -19.8793017,
+  "lon": -43.9995988,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-carpa-koi-duo": {
+  "lat": -19.9384767,
+  "lon": -43.9506601,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-casa-arthur": {
+  "lat": -19.9433294,
+  "lon": -43.9434203,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-casa-azeite": {
+  "lat": -19.9127464,
+  "lon": -43.9302006,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-casa-baanko": {
+  "lat": -19.9325162,
+  "lon": -43.9273183,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-casa-calixto": {
+  "lat": -19.937246,
+  "lon": -43.9355817,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-casa-duca": {
+  "lat": -19.9127464,
+  "lon": -43.9302006,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-casa-gabo": {
+  "lat": -19.9325162,
+  "lon": -43.9273183,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-casa-venezuela-bistro": {
+  "lat": -19.9325162,
+  "lon": -43.9273183,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-uva": {
+  "lat": -19.9442583,
+  "lon": -43.9284141,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-casa-do-churrasco": {
+  "lat": -19.9632256,
+  "lon": -43.945101,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-casa-dus-amigos": {
+  "lat": -19.9237686,
+  "lon": -43.9212458,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-cae-restaurante-bar": {
+  "lat": -19.9493624,
+  "lon": -43.9325869,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-cervejaria-cultura": {
+  "lat": -19.8995287,
+  "lon": -43.9373973,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-cervejaria-fillys": {
+  "lat": -19.8793017,
+  "lon": -43.9995988,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-charcutaria-tapera": {
+  "lat": -19.9193308,
+  "lon": -43.9403488,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-chef-house-steak-gourmet-castelo": {
+  "lat": -19.8793017,
+  "lon": -43.9995988,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-cheirin-bao-anchieta": {
+  "lat": -19.9490187,
+  "lon": -43.9269053,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-cheirin-bao-santo-agostinho": {
+  "lat": -19.9264632,
+  "lon": -43.9489377,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-cheirin-bao-belvedere": {
+  "lat": -19.9802752,
+  "lon": -43.9465701,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-cheirin-bao-boa-viagem": {
+  "lat": -19.9193308,
+  "lon": -43.9403488,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-cheirin-bao-buritis": {
+  "lat": -19.9765791,
+  "lon": -43.9674165,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-cheirin-bao-floresta": {
+  "lat": -19.9127464,
+  "lon": -43.9302006,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-cheirin-bao-funcionarios": {
+  "lat": -19.9325162,
+  "lon": -43.9273183,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-cheirin-bao-lourdes": {
+  "lat": -19.9315166,
+  "lon": -43.943439,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-cheirin-bao-praca-da-liberdade": {
+  "lat": -19.9315166,
+  "lon": -43.943439,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-cheirin-bao-prudente-de-morais": {
+  "lat": -19.9458741,
+  "lon": -43.9512286,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-cheirin-bao-santa-efigencia": {
+  "lat": -19.9237686,
+  "lon": -43.9212458,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-cheirin-bao-savassi": {
+  "lat": -19.937246,
+  "lon": -43.9355817,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-cheirin-bao-shopping-cidade": {
+  "lat": -19.9193308,
+  "lon": -43.9403488,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-cheirin-bao-silva-lobo": {
+  "lat": -19.9413172,
+  "lon": -43.9690897,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-cheirin-bao-unibh": {
+  "lat": -19.9765791,
+  "lon": -43.9674165,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-cia-do-boi-shopping-cidade": {
+  "lat": -19.9193308,
+  "lon": -43.9403488,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-cia-do-boi-8mt": {
+  "lat": -19.9493624,
+  "lon": -43.9325869,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-classicb": {
+  "lat": -19.9924221,
+  "lon": -44.0192116,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-clube-de-jazz-do-cafe-com-letras": {
+  "lat": -19.9325162,
+  "lon": -43.9273183,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-coco-bambu-del-rey": {
+  "lat": -19.8997005,
+  "lon": -43.9652556,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-contemplaria-do-camarao": {
+  "lat": -19.9242039,
+  "lon": -43.9623499,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-cozinha-de-fogo-presencial": {
+  "lat": -19.9802752,
+  "lon": -43.9465701,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-cozinha-santo-antonio": {
+  "lat": -19.9445201,
+  "lon": -43.9400172,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "dg-dbulltique-parrilla-vinhos-e-cervejaria": {
+  "lat": -19.8793017,
+  "lon": -43.9995988,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-da-vila-creperia": {
+  "lat": -19.8722536,
+  "lon": -43.9829877,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-dal-grano": {
+  "lat": -19.8568388,
+  "lon": -43.9599836,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "dg-deck-165": {
+  "lat": -19.8809274,
+  "lon": -43.9234575,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-desaforo-pizza--forno": {
+  "lat": -19.9434426,
+  "lon": -43.9320928,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-distrito-pizza": {
+  "lat": -19.9325162,
+  "lon": -43.9273183,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-do-peixe": {
+  "lat": -19.8390847,
+  "lon": -43.977884,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-domenico-pizzeria--trattoria": {
+  "lat": -19.937246,
+  "lon": -43.9355817,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-dona-carola": {
+  "lat": -19.9148921,
+  "lon": -43.9170461,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-dona-flo-mercado-novo": {
+  "lat": -19.9193308,
+  "lon": -43.9403488,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-dona-fulo": {
+  "lat": -19.9274851,
+  "lon": -43.9452775,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "dg-dona-lucinha-presencial": {
+  "lat": -19.937246,
+  "lon": -43.9355817,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-dope-baked": {
+  "lat": -19.947659,
+  "lon": -43.9375095,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-dumanga-comidaria-baiana": {
+  "lat": -19.9315166,
+  "lon": -43.943439,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-eats": {
+  "lat": -19.8997005,
+  "lon": -43.9652556,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-elis-bar": {
+  "lat": -19.9765791,
+  "lon": -43.9674165,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-emporio-da-picanha": {
+  "lat": -19.9241216,
+  "lon": -43.989502,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-esquina-sante": {
+  "lat": -19.9148921,
+  "lon": -43.9170461,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-est-est-est-ristorante-italiano--savassi": {
+  "lat": -19.9321928,
+  "lon": -43.9360675,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "dg-eu-te-amo-burger-buritis": {
+  "lat": -19.9632256,
+  "lon": -43.945101,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-eu-te-amo-burger": {
+  "lat": -19.9554344,
+  "lon": -43.9116092,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-farinharia-pizza--co": {
+  "lat": -19.9802752,
+  "lon": -43.9465701,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-farinharia-pizza--co-casa-verona": {
+  "lat": -19.856814,
+  "lon": -43.9676434,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-fuba-bar-e-comida": {
+  "lat": -19.9325162,
+  "lon": -43.9273183,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-gastro-hub": {
+  "lat": -19.9405557,
+  "lon": -43.918423,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-gelateria-borelli-shopping-boulevard": {
+  "lat": -19.9237686,
+  "lon": -43.9212458,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-gelateria-borelli-shopping-del-rey": {
+  "lat": -19.8997005,
+  "lon": -43.9652556,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-la-macelleria-anchieta": {
+  "lat": -19.9490187,
+  "lon": -43.9269053,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-giaco-pizzaria": {
+  "lat": -19.9242039,
+  "lon": -43.9623499,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-giardino-la-macelleria": {
+  "lat": -19.9315166,
+  "lon": -43.943439,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-glouton": {
+  "lat": -19.9315166,
+  "lon": -43.943439,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-goncalves-bar": {
+  "lat": -19.937246,
+  "lon": -43.9355817,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-gujorebar": {
+  "lat": -19.937246,
+  "lon": -43.9355817,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-gumbo-soulfood": {
+  "lat": -19.9193308,
+  "lon": -43.9403488,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-hakuna-batata-buritis": {
+  "lat": -19.9765791,
+  "lon": -43.9674165,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-hakuna-batata-coreu": {
+  "lat": -19.9241216,
+  "lon": -43.989502,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-hakuna-batata-savassi": {
+  "lat": -19.937246,
+  "lon": -43.9355817,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-hakuna-batata-shopping-estacao": {
+  "lat": -19.8142089,
+  "lon": -43.9622036,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-hamburgueria-182-savassi": {
+  "lat": -19.9433294,
+  "lon": -43.9434203,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-hou-mei": {
+  "lat": -19.9315166,
+  "lon": -43.943439,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-indian-gourmet": {
+  "lat": -19.9315166,
+  "lon": -43.943439,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-inter-cafe-belvedere": {
+  "lat": -19.9802752,
+  "lon": -43.9465701,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-inter-cafe-meeting-shops": {
+  "lat": -19.9802752,
+  "lon": -43.9465701,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-jabu-drinkeria": {
+  "lat": -19.9765791,
+  "lon": -43.9674165,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-james-burger": {
+  "lat": -19.937246,
+  "lon": -43.9355817,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-jirau-gastrobar": {
+  "lat": -19.9315166,
+  "lon": -43.943439,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-juistreet-belvedere": {
+  "lat": -19.9802752,
+  "lon": -43.9465701,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-juistreet-fleming": {
+  "lat": -19.8722536,
+  "lon": -43.9829877,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-jangal": {
+  "lat": -19.9442583,
+  "lon": -43.9284141,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-kanpai-pnn": {
+  "lat": -19.9315166,
+  "lon": -43.943439,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-kei-n9f": {
+  "lat": -19.9314204,
+  "lon": -43.9440163,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "dg-kinoko-presencialretirada": {
+  "lat": -19.9765791,
+  "lon": -43.9674165,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-kinoko": {
+  "lat": -19.9765791,
+  "lon": -43.9674165,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-kolac-confeitaria": {
+  "lat": -19.947659,
+  "lon": -43.9375095,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-kopenhagen-raja": {
+  "lat": -19.9384767,
+  "lon": -43.9506601,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-korea-chicken-bh-pampulha": {
+  "lat": -19.872274,
+  "lon": -43.9849455,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "dg-la-bayer-chef": {
+  "lat": -19.8997005,
+  "lon": -43.9652556,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-la-macelleria-vila-da-serra": {
+  "lat": -19.9315166,
+  "lon": -43.943439,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-la-palma": {
+  "lat": -19.855765,
+  "lon": -43.9570401,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "dg-la-traviata": {
+  "lat": -19.9375196,
+  "lon": -43.9357229,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "dg-la-traviata-osteria-sion": {
+  "lat": -19.9493624,
+  "lon": -43.9325869,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-la-vinicola-savassi": {
+  "lat": -19.937246,
+  "lon": -43.9355817,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-la-vinicola-wine-bar-lourdes": {
+  "lat": -19.9315166,
+  "lon": -43.943439,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-ladeira": {
+  "lat": -19.9537956,
+  "lon": -43.9150529,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "dg-lagar-tragaluz": {
+  "lat": -19.9264632,
+  "lon": -43.9489377,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-laicos-bar": {
+  "lat": -19.937246,
+  "lon": -43.9355817,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-las-chicas-vegan": {
+  "lat": -19.9248536,
+  "lon": -43.9377077,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "dg-laure-coffee": {
+  "lat": -19.9315166,
+  "lon": -43.943439,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-leopoldina-pizza": {
+  "lat": -19.9193308,
+  "lon": -43.9403488,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-ludocafe-bh": {
+  "lat": -19.9433294,
+  "lon": -43.9434203,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-lullo-gelato-minas-shopping": {
+  "lat": -19.8809274,
+  "lon": -43.9234575,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-lullo-gelato-patio-savassi": {
+  "lat": -19.947659,
+  "lon": -43.9375095,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-luppo-pizzaria": {
+  "lat": -19.8793017,
+  "lon": -43.9995988,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-macareu": {
+  "lat": -19.9802752,
+  "lon": -43.9465701,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-andar-17": {
+  "lat": -19.9458741,
+  "lon": -43.9512286,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-mama-cafe": {
+  "lat": -19.9096053,
+  "lon": -43.9175098,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-maneco--o-quintal-mineiro": {
+  "lat": -19.9242039,
+  "lon": -43.9623499,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-manganelli": {
+  "lat": -19.9466574,
+  "lon": -43.9563632,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-manni-cafes-especiais": {
+  "lat": -19.9307982,
+  "lon": -43.9396578,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "dg-margarida-cozinha-mediterranea": {
+  "lat": -19.9325162,
+  "lon": -43.9273183,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-massala-pampulha": {
+  "lat": -19.8721097,
+  "lon": -43.9868379,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "dg-massala": {
+  "lat": -19.937246,
+  "lon": -43.9355817,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-maue-emporio": {
+  "lat": -19.8914249,
+  "lon": -43.9247869,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "dg-maurizio-gallo": {
+  "lat": -19.9315166,
+  "lon": -43.943439,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-me-gusta": {
+  "lat": -19.9802752,
+  "lon": -43.9465701,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-meatco": {
+  "lat": -19.9802752,
+  "lon": -43.9465701,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-meatz-burger-buritis": {
+  "lat": -19.9763806,
+  "lon": -43.9776272,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "dg-meatz-burger-cidade-nova": {
+  "lat": -19.8809274,
+  "lon": -43.9234575,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-meatz-burger-pampulha": {
+  "lat": -19.8603834,
+  "lon": -43.9661102,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-meatz-burger-santo-antonio": {
+  "lat": -19.9433294,
+  "lon": -43.9434203,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-mercado-da-boca-buritis": {
+  "lat": -19.9729096,
+  "lon": -43.9671752,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "dg-mercearia-tabaiare": {
+  "lat": -19.9127464,
+  "lon": -43.9302006,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-merci-bar-a-vin": {
+  "lat": -19.9384767,
+  "lon": -43.9506601,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-metropole-bistro": {
+  "lat": -19.9433294,
+  "lon": -43.9434203,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-y-burger": {
+  "lat": -19.9493624,
+  "lon": -43.9325869,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-mi-garba-mangabeiras": {
+  "lat": -19.9554344,
+  "lon": -43.9116092,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-mister-pizza-h9c": {
+  "lat": -19.9632256,
+  "lon": -43.945101,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-momo-confeitaria-centro": {
+  "lat": -19.9230647,
+  "lon": -43.9383696,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "dg-momo-confeitaria-floresta": {
+  "lat": -19.9122434,
+  "lon": -43.9300379,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "dg-momo-confeitaria-savassi": {
+  "lat": -19.947659,
+  "lon": -43.9375095,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-monka-cervejaria": {
+  "lat": -19.9900458,
+  "lon": -43.9631249,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-monte": {
+  "lat": -19.9425002,
+  "lon": -43.9526157,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "dg-moonalisa-cozinha": {
+  "lat": -19.9193308,
+  "lon": -43.9403488,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-nuh-cookies-shopping-cidade": {
+  "lat": -19.9193308,
+  "lon": -43.9403488,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-nicolau-bar-da-esquina": {
+  "lat": -19.9802752,
+  "lon": -43.9465701,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-ninetto-trattoria": {
+  "lat": -19.9802752,
+  "lon": -43.9465701,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-ninita-cozinha": {
+  "lat": -19.9315166,
+  "lon": -43.943439,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-nino": {
+  "lat": -19.9310605,
+  "lon": -43.9448584,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "dg-nonna-carmela": {
+  "lat": -19.9315166,
+  "lon": -43.943439,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-nostra-burger": {
+  "lat": -20.0071507,
+  "lon": -44.0384688,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-nu-galho-anchieta": {
+  "lat": -19.9490187,
+  "lon": -43.9269053,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-nuboa-sushi-e-restaurante": {
+  "lat": -19.8618358,
+  "lon": -43.9547569,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-nuuu-restaurante": {
+  "lat": -19.937246,
+  "lon": -43.9355817,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-o-candia": {
+  "lat": -19.9242039,
+  "lon": -43.9623499,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-o-ceu-da-boca": {
+  "lat": -19.9237686,
+  "lon": -43.9212458,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-o-italiano": {
+  "lat": -19.9900458,
+  "lon": -43.9631249,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-oakberry-q0d": {
+  "lat": -19.9765791,
+  "lon": -43.9674165,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-odorico-cervejaria": {
+  "lat": -19.947659,
+  "lon": -43.9375095,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-odoya": {
+  "lat": -19.937246,
+  "lon": -43.9355817,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-ofelia-bar-e-restaurante": {
+  "lat": -19.9237686,
+  "lon": -43.9212458,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-olga-nur": {
+  "lat": -19.9315166,
+  "lon": -43.943439,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-osso--lourdes": {
+  "lat": -19.9308407,
+  "lon": -43.943386,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "dg-osteria-via-emilia": {
+  "lat": -19.9433294,
+  "lon": -43.9434203,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-osteria-via-emilia-lourdes": {
+  "lat": -19.9315166,
+  "lon": -43.943439,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-pacato": {
+  "lat": -19.9315166,
+  "lon": -43.943439,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-pandawok": {
+  "lat": -19.9490187,
+  "lon": -43.9269053,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-panorama-pizzaria": {
+  "lat": -19.9127464,
+  "lon": -43.9302006,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-paradiso": {
+  "lat": -19.9433294,
+  "lon": -43.9434203,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-parallel": {
+  "lat": -19.9315166,
+  "lon": -43.943439,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-espaco-158bh": {
+  "lat": -19.9325162,
+  "lon": -43.9273183,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-parrilla-do-prado-steak-bar": {
+  "lat": -19.9242039,
+  "lon": -43.9623499,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-partiu-cafe": {
+  "lat": -19.9315166,
+  "lon": -43.943439,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-pastaio-2gk": {
+  "lat": -19.9325162,
+  "lon": -43.9273183,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-pecorino-bar-e-trattoria": {
+  "lat": -19.9315166,
+  "lon": -43.943439,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-pellegrino": {
+  "lat": -19.9491298,
+  "lon": -43.9308075,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "dg-per-lui": {
+  "lat": -19.9449584,
+  "lon": -43.9200679,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "dg-picanha-bh": {
+  "lat": -19.9458884,
+  "lon": -43.9728958,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-picco-skybar--food": {
+  "lat": -19.9792743,
+  "lon": -43.9629841,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "dg-picole": {
+  "lat": -19.9325162,
+  "lon": -43.9273183,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-pipa-cozinha-boemia": {
+  "lat": -19.9433294,
+  "lon": -43.9434203,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-piratas": {
+  "lat": -19.8809274,
+  "lon": -43.9234575,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-pizza-blu": {
+  "lat": -19.9632256,
+  "lon": -43.945101,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-pizza-melhor-preco-santa-lucia": {
+  "lat": -19.9632256,
+  "lon": -43.945101,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-pizza-pazza-buritis": {
+  "lat": -19.9765791,
+  "lon": -43.9674165,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-pizza-pazza-presencial": {
+  "lat": -19.937246,
+  "lon": -43.9355817,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-pizzaiolo-cidade-nova": {
+  "lat": -19.889239,
+  "lon": -43.9248575,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-pizzaria-mangabeiras-castelo": {
+  "lat": -19.8793017,
+  "lon": -43.9995988,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-pizzaria-mangabeiras-cidade-nova": {
+  "lat": -19.8917944,
+  "lon": -43.9299132,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-pizzaria-tia-penha-cidade-nova": {
+  "lat": -19.8809274,
+  "lon": -43.9234575,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-pizzaria-tia-penha-santa-ines": {
+  "lat": -19.8903311,
+  "lon": -43.9096812,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-planeta-lupulo": {
+  "lat": -19.8390847,
+  "lon": -43.977884,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-poke-up--castelo": {
+  "lat": -19.8793017,
+  "lon": -43.9995988,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-poke-up-alberto-cintra": {
+  "lat": -19.8809274,
+  "lon": -43.9234575,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-poke-up-serra": {
+  "lat": -19.9405557,
+  "lon": -43.918423,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-pop-kid": {
+  "lat": -19.9200256,
+  "lon": -43.9387523,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "dg-porcao": {
+  "lat": -19.9602802,
+  "lon": -43.9570231,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "dg-porto-fino-boulevard-shopping": {
+  "lat": -19.9237686,
+  "lon": -43.9212458,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-praiou-beach-sport-lounge": {
+  "lat": -19.9622033,
+  "lon": -43.9625784,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-primeli-bistro": {
+  "lat": -19.9096053,
+  "lon": -43.9175098,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-puro-gelato": {
+  "lat": -19.9765791,
+  "lon": -43.9674165,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-perola-da-cidade": {
+  "lat": -19.9135509,
+  "lon": -43.9657474,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-que-pizza": {
+  "lat": -19.9632256,
+  "lon": -43.945101,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-quermesse": {
+  "lat": -19.9325162,
+  "lon": -43.9273183,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-quintal-savassi": {
+  "lat": -19.937246,
+  "lon": -43.9355817,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-quintal-do-durval": {
+  "lat": -19.9148921,
+  "lon": -43.9170461,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-quinto-do-ouro": {
+  "lat": -19.8817746,
+  "lon": -43.9322659,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-restaurante-nascente": {
+  "lat": -19.9433294,
+  "lon": -43.9434203,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-restaurante-do-ano": {
+  "lat": -19.9373995,
+  "lon": -43.9396604,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "dg-rex-bibendi-restaurante": {
+  "lat": -19.9325162,
+  "lon": -43.9273183,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-riu-bar": {
+  "lat": -19.937246,
+  "lon": -43.9355817,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-roma-panetteria": {
+  "lat": -19.9802752,
+  "lon": -43.9465701,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-romeo-pizza-bar-buritis": {
+  "lat": -19.9765791,
+  "lon": -43.9674165,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-rullus-bistro-lourdes": {
+  "lat": -19.9315166,
+  "lon": -43.943439,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-santa-pizza-4wj": {
+  "lat": -19.9003321,
+  "lon": -43.9237228,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-sanville-grill": {
+  "lat": -19.8809274,
+  "lon": -43.9234575,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-satoru-padre-eustaquio": {
+  "lat": -19.9143045,
+  "lon": -43.979356,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-seu-bias": {
+  "lat": -19.9315166,
+  "lon": -43.943439,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-shitake-5bk": {
+  "lat": -19.9554344,
+  "lon": -43.9116092,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-show-de-sabor": {
+  "lat": -19.9003321,
+  "lon": -43.9237228,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-sirene-fleming": {
+  "lat": -19.8722536,
+  "lon": -43.9829877,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-soft-sabore": {
+  "lat": -19.9554344,
+  "lon": -43.9116092,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-spicy--restaurante-lounge-e-bar": {
+  "lat": -19.9434426,
+  "lon": -43.9320928,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-sr-silva-pastelaria": {
+  "lat": -19.9765791,
+  "lon": -43.9674165,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-stadt-jever": {
+  "lat": -19.9325162,
+  "lon": -43.9273183,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-steakbh-oficial": {
+  "lat": -19.9765791,
+  "lon": -43.9674165,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-suribim-no-espeto": {
+  "lat": -19.8816785,
+  "lon": -43.9284124,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "dg-sushi-japa-alberto-cintra": {
+  "lat": -19.8809274,
+  "lon": -43.9234575,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-sushi-up-alberto-cintra": {
+  "lat": -19.8809274,
+  "lon": -43.9234575,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-sushi-up-castelo": {
+  "lat": -19.8793017,
+  "lon": -43.9995988,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-sushi-up-serra": {
+  "lat": -19.9405557,
+  "lon": -43.918423,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-sypie-cookies": {
+  "lat": -19.8332637,
+  "lon": -43.9525862,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-tt-burger": {
+  "lat": -19.9434426,
+  "lon": -43.9320928,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-tom-cozinha-de-heranca": {
+  "lat": -19.9193308,
+  "lon": -43.9403488,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-taberna-livorno": {
+  "lat": -19.8793017,
+  "lon": -43.9995988,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-taika": {
+  "lat": -19.9739768,
+  "lon": -43.941805,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "dg-terraco-nie": {
+  "lat": -19.9193308,
+  "lon": -43.9403488,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-the-bacons-burger-savassi": {
+  "lat": -19.937246,
+  "lon": -43.9355817,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-the-bridge-pub": {
+  "lat": -19.9325162,
+  "lon": -43.9273183,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-the-burger-co": {
+  "lat": -19.9442583,
+  "lon": -43.9284141,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-the-butcher": {
+  "lat": -19.91753,
+  "lon": -43.9900546,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-the-house-food-e-fun": {
+  "lat": -19.937246,
+  "lon": -43.9355817,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-the-meat-club": {
+  "lat": -19.9264632,
+  "lon": -43.9489377,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-the-mexican-gastropub": {
+  "lat": -19.9003321,
+  "lon": -43.9237228,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-timbuca": {
+  "lat": -19.9405557,
+  "lon": -43.918423,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-tons-de-verde-cafe": {
+  "lat": -19.8793017,
+  "lon": -43.9995988,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-torum-bar-e-parrila": {
+  "lat": -19.9622033,
+  "lon": -43.9625784,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-trattoria-grill": {
+  "lat": -19.9802752,
+  "lon": -43.9465701,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-trip-food-floresta": {
+  "lat": -19.9178452,
+  "lon": -43.9325554,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "dg-tua-pizza": {
+  "lat": -19.9490187,
+  "lon": -43.9269053,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-uai-se-cream": {
+  "lat": -19.9193308,
+  "lon": -43.9403488,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-uluru-cafe": {
+  "lat": -19.9367331,
+  "lon": -43.9274727,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "dg-uluru-cafe-patio-savassi": {
+  "lat": -19.947659,
+  "lon": -43.9375095,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-almanaque--cidade-nova": {
+  "lat": -19.889239,
+  "lon": -43.9248575,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-valle-gastronomico": {
+  "lat": -19.9900458,
+  "lon": -43.9631249,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-varanda-1389-lourdes": {
+  "lat": -19.9311651,
+  "lon": -43.9467208,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "dg-versatil-gastro-beer": {
+  "lat": -19.8390847,
+  "lon": -43.977884,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-villa-acqua": {
+  "lat": -19.9264632,
+  "lon": -43.9489377,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-villa-cafe-store-prado": {
+  "lat": -19.9242039,
+  "lon": -43.9623499,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-ville-boca-do-forno-lourdes": {
+  "lat": -19.9315166,
+  "lon": -43.943439,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-villeon": {
+  "lat": -19.9466574,
+  "lon": -43.9563632,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-vinho--ponto-buritis": {
+  "lat": -19.9765791,
+  "lon": -43.9674165,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-vino-cidade-nova": {
+  "lat": -19.8809274,
+  "lon": -43.9234575,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-vino-savassi": {
+  "lat": -19.937246,
+  "lon": -43.9355817,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-vista-mediteraneo": {
+  "lat": -19.9802752,
+  "lon": -43.9465701,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-war-point-coffee": {
+  "lat": -19.9413172,
+  "lon": -43.9690897,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-xodo": {
+  "lat": -19.9335389,
+  "lon": -43.9357602,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "dg-yokai-izakaya": {
+  "lat": -19.9325162,
+  "lon": -43.9273183,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-zaika-tandoor": {
+  "lat": -19.9405557,
+  "lon": -43.918423,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-zoom-zoom-bar": {
+  "lat": -19.9315166,
+  "lon": -43.943439,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-zuzunely": {
+  "lat": -19.9264632,
+  "lon": -43.9489377,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-aflora-secreta": {
+  "lat": -19.9470046,
+  "lon": -43.9538825,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "dg-el-mai": {
+  "lat": -19.9315166,
+  "lon": -43.943439,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-o-chefe": {
+  "lat": -19.9315166,
+  "lon": -43.943439,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-okinaki": {
+  "lat": -19.9315166,
+  "lon": -43.943439,
+  "approx": true,
+  "src": "bairro"
+ },
+ "local-minascentro": {
+  "lat": -19.9238438,
+  "lon": -43.9433857,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "local-sesc palladium": {
+  "lat": -19.9235673,
+  "lon": -43.9399861,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "local-teatro feluma": {
+  "lat": -19.9240819,
+  "lon": -43.9311112,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "duo-sobar": {
+  "lat": -19.8793017,
+  "lon": -43.9995988,
+  "approx": true,
+  "src": "bairro"
+ },
+ "duo-meatz": {
+  "lat": -19.8793017,
+  "lon": -43.9995988,
+  "approx": true,
+  "src": "bairro"
+ },
+ "dg-espetinhos-do-paulao": {
+  "lat": -19.9208,
+  "lon": -43.9378,
+  "approx": true,
+  "src": "cidade"
+ },
+ "local-jângal, cruzeiro": {
+  "lat": -19.9442583,
+  "lon": -43.9284141,
+  "approx": true,
+  "src": "bairro"
+ },
+ "local-a autêntica, santa efigênia": {
+  "lat": -19.9237686,
+  "lon": -43.9212458,
+  "approx": true,
+  "src": "bairro"
+ },
+ "local-funarte": {
+  "lat": -19.9208,
+  "lon": -43.9378,
+  "approx": true,
+  "src": "cidade"
+ },
+ "local-praça do papa, mangabeiras": {
+  "lat": -19.9574662,
+  "lon": -43.9146067,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "local-cine santa tereza": {
+  "lat": -19.9163137,
+  "lon": -43.9168092,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "local-casa fiat de cultura": {
+  "lat": -19.9344518,
+  "lon": -43.9396076,
+  "approx": false,
+  "src": "nominatim"
+ },
+ "local-alpendre 70, santa tereza": {
+  "lat": -19.9148921,
+  "lon": -43.9170461,
+  "approx": true,
+  "src": "bairro"
+ },
+ "local-centro cultural unimed-bh minas": {
+  "lat": -19.9208,
+  "lon": -43.9378,
+  "approx": true,
+  "src": "cidade"
+ },
+ "local-cine theatro brasil vallourec": {
+  "lat": -19.9208,
+  "lon": -43.9378,
+  "approx": true,
+  "src": "cidade"
+ }
+}
