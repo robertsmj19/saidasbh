@@ -38,3 +38,14 @@
 - Geocodificação: o local novo "Sesc Mezanino" foi descartado junto com a correção; a coordenada do Zoológico (errada, o Zoo usa a chave `zoo`) também foi descartada. Nenhuma coordenada nova ficou.
 - Teste de sintaxe do JS: passou.
 - Tag de backup: backup/pre-update-2026-11-09 (cópia em backups/2026-11-09/).
+
+## 2026-11-16 (semana de 16/11 a 22/11)
+
+- Fontes (7): 6 responderam, 1 falhou. Portal BH /eventos/gratuitos deu 404; Portal BH /eventos só abriu a página 1 de 6 (2 eventos aproveitados). Clib abriu 2 de 20 páginas (5 eventos), Circuito Liberdade 0 próprios (só cruzamento com CCBB), Palácio das Artes 2, CCBB BH 5, Sesc Minas 2, Cine Santa Tereza 1.
+- Propostos: 14. Já existiam no EVPAD: Viva Mauricio, Eu e Meu Monstro, Karamazovianas, Exposição Picasso e Quintalzinho de 19/11 (não duplicados). Não entraram: Exposição de Longa Duração do CCBB (data de início inventada) e Aconteceu, virou manchete (datas não constam na página).
+- Cadastrados: 7 (Cine Santa Tereza, Encantaria ancestral, Sinfônica Pop, Velhas Entre Linhas, Afrodiáspora, Feira Pindorama, O Fenômeno Humano).
+- Revisão (opus): 6 aprovados, 1 reprovado. O Fenômeno Humano foi removido por duplicar o `museu-puc` do SEED. Ajustes: nome do Cine Santa Tereza generalizado e hora_conhecida:false (sessões variam por dia); fonte Clib retirada da Sinfônica Pop (não conferida). Entraram 6 no final.
+- Eventos antigos removidos: 0 (nenhum terminou há mais de 14 dias).
+- Geocodificação: Feira Pindorama (aproximada, bairro). Coordenadas do Museu PUC (removido) e do Zoológico (errada, o Zoo usa a chave `zoo`) descartadas.
+- Teste de sintaxe do JS: passou.
+- Tag de backup: backup/pre-update-2026-11-16 (cópia em backups/2026-11-16/).

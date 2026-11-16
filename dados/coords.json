@@ -2410,5 +2410,11 @@
   "lon": -43.9403488,
   "approx": true,
   "src": "bairro"
+ },
+ "local-feira pindorama, rua rio petrópolis": {
+  "lat": -19.9160773,
+  "lon": -44.0265103,
+  "approx": true,
+  "src": "bairro"
  }
 }
