@@ -2416,5 +2416,17 @@
   "lon": -44.0265103,
   "approx": true,
   "src": "bairro"
+ },
+ "local-ziriguidum, belo horizonte": {
+  "lat": -19.9208,
+  "lon": -43.9378,
+  "approx": true,
+  "src": "cidade"
+ },
+ "local-3 preto bar, caiçara": {
+  "lat": -19.9208,
+  "lon": -43.9378,
+  "approx": true,
+  "src": "cidade"
  }
 }

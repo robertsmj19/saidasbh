@@ -49,3 +49,13 @@
 - Geocodificação: Feira Pindorama (aproximada, bairro). Coordenadas do Museu PUC (removido) e do Zoológico (errada, o Zoo usa a chave `zoo`) descartadas.
 - Teste de sintaxe do JS: passou.
 - Tag de backup: backup/pre-update-2026-11-16 (cópia em backups/2026-11-16/).
+
+
+## 2026-11-18 (ajuste manual pelo chat)
+
+- Sugestões passam de 6 para 12, e a área de sugestões ficou mais larga (até 1280 px, 4 cartões por linha no computador).
+- Novas fontes acompanhadas: Ziriguidum (lets.events, lido pelo navegador do computador do usuário) e 3 Preto Bar (HojeAli; Sympla bloqueia leitura automática).
+- Eventos novos: 2 do Ziriguidum (18/11 e 28/11) e 8 do 3 Preto (19/11 a 13/12), todos com `seg:1`, preço null.
+- Geocodificação: Nominatim inacessível deste ambiente; Ziriguidum e 3 Preto caíram no centro da cidade (aproximado). Coordenada nova do Zoológico descartada (o Zoo usa a chave `zoo`).
+- Teste de sintaxe do JS: passou. Teste das sugestões: 12 geradas, nenhum lugar repetido em 200 semanas simuladas.
+- Tag de backup: backup/pre-update-2026-11-18 (cópia em backups/2026-11-18/).

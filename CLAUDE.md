@@ -5,7 +5,7 @@ Página para ajudar o usuário a sair mais de casa em Belo Horizonte. Ele trabal
 ## Regras da semana
 
 - Até 3 saídas por semana, com pelo menos uma grátis ou até R$ 20. Passagem de ônibus fora da conta.
-- A página sugere 6 opções por semana, sempre com pelo menos uma do Duo Gourmet, uma cultural gratuita e um espaço público.
+- A página sugere 12 opções por semana, sempre com pelo menos uma do Duo Gourmet, uma cultural gratuita e um espaço público.
 - No máximo uma sugestão por `lugar` (itens no mesmo endereço ou passeio).
 - As sugestões do Duo usam só os favoritos, porque são os únicos com dias e regras conferidos.
 
@@ -28,6 +28,12 @@ Página para ajudar o usuário a sair mais de casa em Belo Horizonte. Ele trabal
 - `FSEED`: fontes da aba "Fontes da cidade". `s: 1` = link aberto e conferido, `pri: 1` = rotina de segunda.
 - `COORDS`: coordenada de cada ponto do mapa, gerada por `scripts/geocode.js` a partir de `dados/coords.json` (ver seção Arquivos). Chave é `it.lugar||it.id`; para eventos, a mesma chave `lugar` que o `eventItems()` já calcula a partir do campo `local`. Cada entrada tem `approx` (true = caiu no bairro ou na cidade, mostrado como "local aproximado" no balão) e `src` (`manual`, `nominatim`, `bairro` ou `cidade`).
 - Tudo que o usuário faz (dias, favoritos, preços, "Fui", fontes vistas) fica no `localStorage` do navegador.
+
+## Casas que o usuário acompanha
+
+- Ziriguidum: agenda em https://lets.events/organizer/ziriguidunculturalbh. A lista só carrega no navegador (WebFetch volta vazio), então precisa de navegador de verdade.
+- 3 Preto Bar (Av. Dom Pedro II, 3608, Caiçara): o Sympla bloqueia leitura automática (robots), não contornar. A agenda da casa vem do HojeAli: https://hojeali.com/belo-horizonte-mg/local/3-preto-bar/. Preço e cortesia só no Sympla, então entram como `preco:null`.
+- Eventos dessas casas levam `seg:1` no `EVPAD`: ganham prioridade nas sugestões e a etiqueta "você acompanha".
 
 ## Decisões tomadas
 
