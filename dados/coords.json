@@ -2428,5 +2428,17 @@
   "lon": -43.9378,
   "approx": true,
   "src": "cidade"
+ },
+ "mhnjb-ufmg": {
+  "lat": -19.9208,
+  "lon": -43.9378,
+  "approx": true,
+  "src": "cidade"
+ },
+ "local-zoológico de belo horizonte": {
+  "lat": -19.9208,
+  "lon": -43.9378,
+  "approx": true,
+  "src": "cidade"
  }
 }

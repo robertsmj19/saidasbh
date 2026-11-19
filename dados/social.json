@@ -2028,5 +2028,10 @@
   "google": "https://www.google.com/search?q=3%20Preto%20Bar%2C%20Cai%C3%A7ara%20Belo%20Horizonte",
   "instagram": null,
   "checked": false
+ },
+ "mhnjb-ufmg": {
+  "google": "https://www.google.com/search?q=Museu%20de%20Hist%C3%B3ria%20Natural%20e%20Jardim%20Bot%C3%A2nico%20da%20UFMG%20Santa%20In%C3%AAs%20Belo%20Horizonte",
+  "instagram": "https://www.instagram.com/mhnjb_oficial/",
+  "checked": true
  }
 }
