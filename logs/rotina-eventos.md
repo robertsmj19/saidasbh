@@ -59,3 +59,10 @@
 - Geocodificação: Nominatim inacessível deste ambiente; Ziriguidum e 3 Preto caíram no centro da cidade (aproximado). Coordenada nova do Zoológico descartada (o Zoo usa a chave `zoo`).
 - Teste de sintaxe do JS: passou. Teste das sugestões: 12 geradas, nenhum lugar repetido em 200 semanas simuladas.
 - Tag de backup: backup/pre-update-2026-11-18 (cópia em backups/2026-11-18/).
+## 2026-11-19 (rotina diária)
+
+- Fontes: Ziriguidum verificado no navegador do computador (1 evento em "Próximos eventos": 28/11, já no EVPAD). 3 Preto Bar não verificado: o pedido de permissão do WebFetch para o HojeAli expirou sem resposta; nenhuma outra via foi tentada.
+- Eventos novos: 0.
+- Eventos removidos: 0 (nenhum terminou há mais de 14 dias).
+- Teste de sintaxe: não necessário (EVPAD sem mudança).
+- Tag de backup: backup/pre-update-2026-11-19 (local, cópia em backups/2026-11-19/). Sem commit, nada mudou no EVPAD.
